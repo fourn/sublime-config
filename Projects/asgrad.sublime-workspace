@@ -1,0 +1,438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Rou",
+				"Route::get\tBasic Get Route."
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"packageins",
+				"Package Control: Install Package"
+			],
+			[
+				"packagere",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"material theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"laravel",
+				"Laravel Artisan 5: List"
+			],
+			[
+				"packagtinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"packageinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"packagins",
+				"Package Control: Install Package"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/fourn/sites/asgrad",
+		"/Users/fourn/sites/asgrad/Modules",
+		"/Users/fourn/sites/asgrad/Modules/Core"
+	],
+	"file_history":
+	[
+		"/Users/fourn/sites/asgrad/composer.json",
+		"/Users/fourn/sites/asgrad/Modules/Core/composer.json",
+		"/Users/fourn/sites/asgrad/Modules/Core/Console/Installers/Installer.php",
+		"/Users/fourn/sites/asgrad/Modules/Core/Services/Composer.php",
+		"/Users/fourn/sites/asgrad/Modules/Core/Console/Installers/Scripts/UserProviders/ProviderInstaller.php",
+		"/Users/fourn/sites/asgrad/Modules/Core/Console/InstallCommand.php",
+		"/Users/fourn/sites/asgrad/Modules/Media/Entities/FileTranslation.php",
+		"/Users/fourn/sites/asgrad/Modules/Media/Entities/File.php",
+		"/Users/fourn/sites/asgrad/Modules/Media/Http/Controllers/Admin/MediaGridController.php",
+		"/Users/fourn/sites/asgrad/Modules/Media/Repositories/Eloquent/EloquentFileRepository.php",
+		"/Users/fourn/sites/asgrad/Modules/Core/Console/DownloadModuleCommand.php",
+		"/Users/fourn/sites/asgrad/Modules/Core/composers.php",
+		"/Users/fourn/sites/asgrad/Modules/Tag/Repositories/TagRepository.php",
+		"/Users/fourn/sites/asgrad/Modules/Page/Http/Controllers/Admin/PageController.php",
+		"/Users/fourn/sites/asgrad/Modules/Tag/Traits/TaggableTrait.php",
+		"/Users/fourn/sites/asgrad/Modules/Media/Database/Migrations/2014_10_26_162751_create_files_table.php",
+		"/Users/fourn/sites/asgrad/Modules/Media/Database/Migrations/2015_02_27_105241_create_image_links_table.php",
+		"/Users/fourn/sites/asgrad/Modules/Media/Database/Migrations/2014_10_26_162811_create_file_translations_table.php",
+		"/Users/fourn/sites/asgrad/Modules/Media/Http/Controllers/Admin/MediaController.php",
+		"/Users/fourn/sites/asgrad/Modules/Media/Database/Migrations/2015_12_19_143643_add_sortable.php",
+		"/Users/fourn/sites/asgrad/Modules/Media/Database/Migrations/2017_09_20_144631_add_folders_columns_on_files_table.php",
+		"/Users/fourn/sites/asgrad/Modules/Media/Helpers/FileHelper.php",
+		"/Users/fourn/sites/asgrad/Modules/Dashboard/Providers/DashboardServiceProvider.php",
+		"/Users/fourn/sites/asgrad/.php_cs.dist",
+		"/Users/fourn/sites/asgrad/Modules/Media/.gitignore",
+		"/Users/fourn/sites/asgrad/Modules/Setting/.gitignore",
+		"/Users/fourn/sites/asgrad/Modules/Core/Traits/CanRequireAssets.php",
+		"/Users/fourn/sites/asgrad/Modules/Core/Traits/CanPublishConfiguration.php",
+		"/Users/fourn/sites/asgrad/Modules/Core/Console/Installers/Scripts/ThemeAssets.php",
+		"/Users/fourn/sites/asgrad/Modules/Core/Console/Installers/Scripts/ModuleAssets.php",
+		"/Users/fourn/sites/asgrad/Modules/Core/Http/Controllers/BasePublicController.php",
+		"/Users/fourn/sites/asgrad/Modules/Core/Database/Seeders/CoreDatabaseSeeder.php",
+		"/Users/fourn/sites/asgrad/resources/lang/zh/pagination.php",
+		"/Users/fourn/sites/asgrad/resources/lang/zh/auth.php",
+		"/Users/fourn/sites/asgrad/config/modules.php",
+		"/Users/fourn/sites/asgrad/Modules/Core/Http/Controllers/Admin/AdminBaseController.php",
+		"/Users/fourn/sites/asgrad/config/asgard/setting/config.php",
+		"/Users/fourn/sites/asgrad/config/asgard/setting/permissions.php",
+		"/Users/fourn/sites/asgrad/config/asgard/menu/permissions.php",
+		"/Users/fourn/sites/asgrad/config/asgard/menu/config.php",
+		"/Users/fourn/sites/asgrad/Modules/Page/composer.json",
+		"/Users/fourn/sites/asgrad/config/asgard/dashboard/permissions.php",
+		"/Users/fourn/sites/asgrad/config/asgard/media/permissions.php",
+		"/Users/fourn/sites/asgrad/Modules/Translation/composer.json",
+		"/Users/fourn/sites/asgrad/Modules/Core/.gitignore",
+		"/Users/fourn/sites/asgrad/Modules/Translation/bower.json",
+		"/Users/fourn/sites/asgrad/Modules/Translation/module.json",
+		"/Users/fourn/sites/asgrad/Modules/Menu/module.json",
+		"/Users/fourn/sites/asgrad/phpunit.xml",
+		"/Users/fourn/sites/asgrad/dcp",
+		"/Users/fourn/sites/asgrad/Modules/Core/Providers/AssetServiceProvider.php",
+		"/Users/fourn/sites/asgrad/Modules/Menu/composer.json",
+		"/Users/fourn/sites/asgrad/Modules/Menu/.sensiolabs.yml",
+		"/Users/fourn/sites/asgrad/Modules/Menu/.gitignore",
+		"/Users/fourn/sites/asgrad/Modules/Core/Providers/CoreServiceProvider.php",
+		"/Users/fourn/sites/asgrad/Modules/Core/Providers/AsgardServiceProvider.php",
+		"/Users/fourn/sites/asgrad/Modules/Media/Blade/MediaMultipleDirective.php",
+		"/Users/fourn/sites/asgrad/Modules/Page/Http/apiRoutes.php",
+		"/Users/fourn/sites/asgrad/Modules/Core/Providers/RoutingServiceProvider.php",
+		"/Users/fourn/sites/asgrad/Modules/Page/Providers/RouteServiceProvider.php",
+		"/Users/fourn/sites/asgrad/Modules/Page/Http/backendRoutes.php",
+		"/Users/fourn/sites/asgrad/Modules/Core/Internationalisation/Helper.php",
+		"/Users/fourn/sites/asgrad/docker-compose.yml",
+		"/Users/fourn/sites/asgrad/.babelrc",
+		"/Users/fourn/sites/asgrad/Modules/Core/changelog.yml",
+		"/Users/fourn/sites/asgrad/Modules/Core/bower.json",
+		"/Users/fourn/sites/asgrad/Modules/Core/.sensiolabs.yml",
+		"/Users/fourn/sites/asgrad/Modules/Core/Providers/EventServiceProvider.php",
+		"/Users/fourn/sites/asgrad/Modules/Core/Http/routes.php",
+		"/Users/fourn/sites/asgrad/routes/web.php",
+		"/Users/fourn/sites/asgrad/Modules/Core/Internationalisation/BaseFormRequest.php",
+		"/Users/fourn/sites/asgrad/.env",
+		"/Users/fourn/sites/asgrad/Modules/Setting/composer.json",
+		"/Users/fourn/sites/ec/modules/Distribution/Backend/composer.json",
+		"/Users/fourn/sites/ec/modules/Distribution/Backend/src/Providers/DistributionBackendProvider.php",
+		"/Users/fourn/sites/ec/modules/Custom.Demo/src/Controllers/TestController.php",
+		"/Users/fourn/sites/ec/modules/Distribution/Backend/src/Models/AgentCommission.php",
+		"/Users/fourn/sites/ec/modules/Distribution/Backend/src/Models/AgentCash.php",
+		"/Users/fourn/sites/ec/modules/Distribution/Backend/src/DistributionBackend.php",
+		"/Users/fourn/sites/ec/modules/Custom.Demo/src/Models/Goods.php",
+		"/Users/fourn/sites/ec/modules/Custom.Demo/src/Repository/GoodsRepositoryEloquent.php",
+		"/Users/fourn/sites/ec/modules/component/Product/src/Repositories/Eloquent/GoodsRepositoryEloquent.php",
+		"/Users/fourn/sites/ec/modules/Custom.Demo/src/api.php",
+		"/Users/fourn/sites/ec/modules/Custom.Demo/.php_cs",
+		"/Users/fourn/sites/ec/modules/Discover/Backend/src/routes.php",
+		"/Users/fourn/sites/ec/modules/Discover/Core/src/Providers/CoreServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/Discover/Core/composer.json",
+		"/Users/fourn/sites/ec/modules/Discover/Server/composer.json",
+		"/Users/fourn/sites/ec/modules/Discover/Server/src/Providers/ServerServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/composer.json",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/src/ServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/src/Storage/SessionStorage.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/src/route.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/src/SmsController.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-ueditor/composer.json",
+		"/Users/fourn/sites/ec/vendor/ibrand/pay/src/PayServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/pay/src/Controllers/WechatPayNotifyController.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/backend/composer.json",
+		"/Users/fourn/sites/ec/vendor/ibrand/backend/src/Http/Controllers/AuthAdminController.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/pay/src/Controllers/OfficialAccountController.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/pay/src/Controllers/AlipayController.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/pay/src/Controllers/AlipayNotifyController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/composer.json",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/PayNotify/RechargePayNotify.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Jobs/AutoCancelOrder.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Providers/AppServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/src/Jobs/DbLogger.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-shopping-cart/.php_cs",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-express/src/Numbers/Kuaidi100Number.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-express/src/ServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-cache/src/CollectCacheRepository.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/common/src/CommonServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/common/composer.json",
+		"/Users/fourn/sites/ec/.env",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Member/src/Http/routes.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/routes.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/routes/api.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/routes/api-v3.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Providers/RouteServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/BalanceServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/BalanceOrder.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/BalanceCash.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/Balance.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/Listeners/BalanceOrderPaidSuccess.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/Listeners/BalanceRefundEventListener.php",
+		"/Users/fourn/sites/ec/modules/component/Product/src/ProductServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Member/src/Http/Controllers/RechargeController.php",
+		"/Users/fourn/sites/ec/app/Http/Middleware/RedirectIfAuthenticated.php"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 129.0,
+		"where_history":
+		[
+			"/Users/fourn/sites/asgrad/Modules/Core",
+			"/Users/fourn/sites/asgrad/Modules/Core/Console",
+			"/Users/fourn/sites/asgrad/Modules/Core",
+			"/Users/fourn/sites/asgrad/Modules/Page"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$this->composer",
+			"composer",
+			"Composer",
+			"composer",
+			"Composer",
+			"composer",
+			"Composer",
+			"Modules\\Core\\Services\\Composer",
+			"$this->composer",
+			"Installer->composer",
+			"Modules\\Core\\Console\\Installers",
+			"install",
+			"composer",
+			"tag",
+			"weapp.floridict.cn",
+			"php-cs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 108.0
+	},
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "asgrad.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"",
+				".env"
+			],
+			[
+				".env",
+				".env"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "ec",
+		"selected_items":
+		[
+			[
+				"ec",
+				"~/SublimeProjects/ec.sublime-project"
+			],
+			[
+				"",
+				"~/SublimeProjects/wdec.sublime-project"
+			],
+			[
+				"flori",
+				"~/SublimeProjects/florihelper.sublime-project"
+			],
+			[
+				"wdec",
+				"~/SublimeProjects/wdec.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 480.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"ChineseLocalizations",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Git",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Blade AutoComplete",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Package Control",
+		"ProjectManager",
+		"SideBarTools",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SyncedSideBar",
+		"Vue Syntax Highlight"
+	]
+}

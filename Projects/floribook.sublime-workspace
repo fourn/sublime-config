@@ -1,0 +1,546 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Rou",
+				"Route::get\tBasic Get Route."
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/fourn/sites/floribook/app/Admin/Controllers/BreedController.php",
+			"settings":
+			{
+				"buffer_size": 20690,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/floribook/database/seeds/BreedTableSeeder.php",
+			"settings":
+			{
+				"buffer_size": 2411,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/floribook/app/Models/AttrValue.php",
+			"settings":
+			{
+				"buffer_size": 254,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimecode",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"packageins",
+				"Package Control: Install Package"
+			],
+			[
+				"packagere",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"material theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"laravel",
+				"Laravel Artisan 5: List"
+			],
+			[
+				"packagtinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"packageinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"packagins",
+				"Package Control: Install Package"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 214.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/fourn/sites/floribook",
+		"/Users/fourn/sites/floribook/app",
+		"/Users/fourn/sites/floribook/app/Admin",
+		"/Users/fourn/sites/floribook/app/Admin/Controllers",
+		"/Users/fourn/sites/floribook/app/Models",
+		"/Users/fourn/sites/floribook/database",
+		"/Users/fourn/sites/floribook/database/factories",
+		"/Users/fourn/sites/floribook/database/seeds"
+	],
+	"file_history":
+	[
+		"/Users/fourn/sites/floribook/app/Models/AttrValue.php",
+		"/Users/fourn/sites/floribook/app/Admin/Controllers/ImageController.php",
+		"/Users/fourn/sites/florihelper/app/Admin/Controllers/BreedController.php",
+		"/Users/fourn/sites/florihelper/resources/lang/zh-CN/auth.php",
+		"/Users/fourn/sites/florihelper/resources/lang/zh-CN/pagination.php",
+		"/Users/fourn/sites/florihelper/resources/lang/zh-CN/passwords.php",
+		"/Users/fourn/sites/florihelper/resources/lang/zh-CN/validation.php",
+		"/Users/fourn/sites/florihelper/app/Http/Controllers/Api/BankCardsController.php",
+		"/Users/fourn/sites/florihelper/app/Http/Controllers/Api/Controller.php",
+		"/Users/fourn/sites/ec/vendor/dingo/api/src/Routing/Helpers.php",
+		"/Users/fourn/sites/ec/vendor/dingo/api/src/Http/Response/Factory.php",
+		"/Users/fourn/sites/florihelper/app/Admin/bootstrap.php",
+		"/Users/fourn/sites/florihelper/app/Services/YlyPrinterService.php",
+		"/Users/fourn/sites/florihelper/database/migrations/2019_10_17_180702_add_qrcode_to_companies_table.php",
+		"/Users/fourn/sites/wdshop/.gitignore",
+		"/Users/fourn/sites/wdshop/composer.json",
+		"/Users/fourn/sites/wdshop/.styleci.yml",
+		"/Users/fourn/sites/ec/modules/component/Address/.travis.yml",
+		"/Users/fourn/sites/ec/vendor/ibrand/setting/src/Repositories/CacheDecorator.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/setting/src/Repositories/EloquentSetting.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/setting/src/Repositories/SettingInterface.php",
+		"/Users/fourn/Library/Application Support/Sublime Text 3/Packages/User/Vue Component.sublime-settings",
+		"/Users/fourn/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/fourn/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/fourn/sites/ec/modules/component/Address/src/RepositoryContract.php",
+		"/Users/fourn/sites/ec/composer.json",
+		"/Users/fourn/sites/ec/modules/component/Address/src/Address.php",
+		"/Users/fourn/sites/ec/modules/component/Address/src/Repository.php",
+		"/Users/fourn/sites/ec/modules/component/Address/src/ServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/component/Address/migrations/2019_12_31_113316_create_addresses_tables.php",
+		"/Users/fourn/sites/ec/modules/component/Address/tests/database/2016_03_29_061248_create_el_addresses_test_table.php",
+		"/Users/fourn/sites/ec/modules/component/Address/README.md",
+		"/Users/fourn/sites/ec/modules/component/Address/phpunit.xml",
+		"/Users/fourn/sites/ec/modules/component/Address/LICENSE",
+		"/Users/fourn/sites/ec/modules/component/Address/.php_cs",
+		"/Users/fourn/sites/ec/vendor/dingo/api/composer.json",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/composer.json",
+		"/Users/fourn/sites/ec/modules/component/Address/tests/AddressTest.php",
+		"/Users/fourn/sites/ec/modules/component/User/tests/BaseTest.php",
+		"/Users/fourn/sites/ec/modules/component/User/tests/UserTest.php",
+		"/Users/fourn/sites/ec/modules/component/Address/composer.json",
+		"/Users/fourn/sites/ec/vendor/laravel/framework/src/Illuminate/Foundation/Console/PackageDiscoverCommand.php",
+		"/Users/fourn/sites/ec/vendor/wikimedia/composer-merge-plugin/src/Merge/ExtraPackage.php",
+		"/Users/fourn/sites/ec/app/Console/Kernel.php",
+		"/Users/fourn/sites/ec/routes/console.php",
+		"/Users/fourn/sites/ec/vendor/laravel/framework/src/Illuminate/Console/Command.php",
+		"/Users/fourn/sites/ec/vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php",
+		"/Users/fourn/sites/ec/modules/Distribution/Backend/composer.json",
+		"/Users/fourn/sites/ec/modules/Distribution/Backend/src/Providers/DistributionBackendProvider.php",
+		"/Users/fourn/sites/ec/modules/Custom.Demo/src/Controllers/TestController.php",
+		"/Users/fourn/sites/ec/modules/Distribution/Backend/src/Models/AgentCommission.php",
+		"/Users/fourn/sites/ec/modules/Distribution/Backend/src/Models/AgentCash.php",
+		"/Users/fourn/sites/ec/modules/Distribution/Backend/src/DistributionBackend.php",
+		"/Users/fourn/sites/ec/modules/Custom.Demo/src/Models/Goods.php",
+		"/Users/fourn/sites/ec/modules/Custom.Demo/src/Repository/GoodsRepositoryEloquent.php",
+		"/Users/fourn/sites/ec/modules/component/Product/src/Repositories/Eloquent/GoodsRepositoryEloquent.php",
+		"/Users/fourn/sites/ec/modules/Custom.Demo/src/api.php",
+		"/Users/fourn/sites/ec/modules/Custom.Demo/.php_cs",
+		"/Users/fourn/sites/ec/modules/Discover/Backend/src/routes.php",
+		"/Users/fourn/sites/ec/modules/Discover/Core/src/Providers/CoreServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/Discover/Core/composer.json",
+		"/Users/fourn/sites/ec/modules/Discover/Server/composer.json",
+		"/Users/fourn/sites/ec/modules/Discover/Server/src/Providers/ServerServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/composer.json",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/src/ServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/src/Storage/SessionStorage.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/src/route.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/src/SmsController.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-ueditor/composer.json",
+		"/Users/fourn/sites/ec/vendor/ibrand/pay/src/PayServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/pay/src/Controllers/WechatPayNotifyController.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/backend/composer.json",
+		"/Users/fourn/sites/ec/vendor/ibrand/backend/src/Http/Controllers/AuthAdminController.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/pay/src/Controllers/OfficialAccountController.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/pay/src/Controllers/AlipayController.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/pay/src/Controllers/AlipayNotifyController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/PayNotify/RechargePayNotify.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Jobs/AutoCancelOrder.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Providers/AppServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/src/Jobs/DbLogger.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-shopping-cart/.php_cs",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-express/src/Numbers/Kuaidi100Number.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-express/src/ServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-cache/src/CollectCacheRepository.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/common/src/CommonServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/common/composer.json",
+		"/Users/fourn/sites/ec/.env",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Member/src/Http/routes.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/routes.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/routes/api.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/routes/api-v3.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Providers/RouteServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/BalanceServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/BalanceOrder.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/BalanceCash.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/Balance.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/Listeners/BalanceOrderPaidSuccess.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/Listeners/BalanceRefundEventListener.php",
+		"/Users/fourn/sites/ec/modules/component/Product/src/ProductServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Member/src/Http/Controllers/RechargeController.php",
+		"/Users/fourn/sites/ec/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/Users/fourn/sites/ec/app/Http/Middleware/TrimStrings.php",
+		"/Users/fourn/sites/ec/app/Http/Middleware/TrustProxies.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Member/src/Models/Balance.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/Attribute.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Member/src/Models/User.php",
+		"/Users/fourn/sites/ec/app/Http/Middleware/EncryptCookies.php",
+		"/Users/fourn/.zshrc"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 129.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/fourn/sites/floribook/app/Admin/Controllers/BreedController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20690,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15054,
+								15066
+							]
+						],
+						"settings":
+						{
+							"SL.101.region_keys":
+							[
+							],
+							"SL.223.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/fourn/sites/floribook/database/seeds/BreedTableSeeder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1819,
+								1824
+							]
+						],
+						"settings":
+						{
+							"SL.102.region_keys":
+							[
+							],
+							"SL.110.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 690.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/fourn/sites/floribook/app/Models/AttrValue.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.114.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 108.0
+	},
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "floribook.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"qrcode",
+				"database/migrations/2019_10_17_180702_add_qrcode_to_companies_table.php"
+			],
+			[
+				"ComposerScripts",
+				"vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php"
+			],
+			[
+				"composer",
+				"modules/EC.Open.Core/composer.json"
+			],
+			[
+				"",
+				".env"
+			],
+			[
+				".env",
+				".env"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/SublimeProjects/ec.sublime-project"
+			],
+			[
+				"wdec",
+				"~/SublimeProjects/wdec.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 359.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

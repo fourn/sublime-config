@@ -1,0 +1,672 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Rou",
+				"Route::get\tBasic Get Route."
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/fourn/sites/linian/Modules/Product/Services/GoodsService.php",
+			"settings":
+			{
+				"buffer_size": 6581,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/linian/Modules/Product/Services/Checkers/GoodsChecker.php",
+			"settings":
+			{
+				"buffer_size": 2739,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"listpack",
+				"Package Control: List Packages"
+			],
+			[
+				"ke y",
+				"Preferences: Key Bindings"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"makeControll",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"keybinnd",
+				"Preferences: Key Bindings"
+			],
+			[
+				"removepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"packagein ",
+				"Package Control: Install Package"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"packageinstall",
+				"Package Control: Install Package"
+			],
+			[
+				"unit",
+				"PHPUnit: Run Tests"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"phpunit",
+				"Set Syntax: PHPUnit TextRunner"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"sublimecode",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"packageins",
+				"Package Control: Install Package"
+			],
+			[
+				"packagere",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"material theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"laravel",
+				"Laravel Artisan 5: List"
+			],
+			[
+				"packagtinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"packageinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"packagins",
+				"Package Control: Install Package"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 214.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/fourn/sites/linian",
+		"/Users/fourn/sites/linian/Modules",
+		"/Users/fourn/sites/linian/Modules/Product",
+		"/Users/fourn/sites/linian/Modules/Product/Services",
+		"/Users/fourn/sites/linian/Modules/Product/Services/Checkers"
+	],
+	"file_history":
+	[
+		"/Users/fourn/sites/linian/Modules/Product/Services/GoodsProductService.php",
+		"/Users/fourn/sites/linian/Modules/Product/Services/ApiGoodsService.php",
+		"/Users/fourn/sites/ec/database/migrations/2016_01_04_173148_create_admin_tables.php",
+		"/Users/fourn/sites/ec/modules/component/Advert/README.md",
+		"/Users/fourn/sites/ec/modules/component/Favorite/tests/BaseTest.php",
+		"/Users/fourn/sites/ec/modules/component/Favorite/tests/Activity.php",
+		"/Users/fourn/sites/ec/modules/component/Advert/.travis.yml",
+		"/Users/fourn/sites/ec/modules/component/Advert/phpunit.xml",
+		"/Users/fourn/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/fourn/sites/ec/docker/docker-compose.yml",
+		"/Users/fourn/sites/ec/modules/component/Gift/src/Processor/DirectionalCouponProcessor.php",
+		"/Users/fourn/sites/ec/modules/component/Gift/src/Listeners/DirectionalCoupon/GiftEventListener.php",
+		"/Users/fourn/sites/ec/modules/component/Gift/src/Listeners/DirectionalCoupon/CouponEventListener.php",
+		"/Users/fourn/sites/ec/modules/component/Gift/src/GiftServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/component/Gift/src/Services/DirectionalCouponService.php",
+		"/Users/fourn/sites/ec/composer.json",
+		"/Users/fourn/sites/ec/Dockerfile",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Providers/DiscountServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Providers/BackendServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/component/Gift/src/Repositories/GiftDirectionalCouponRepository.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Repositories/Eloquent/CouponRepositoryEloquent.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Repositories/CouponRepository.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/DirectionalCouponController.php",
+		"/Users/fourn/sites/ec/modules/component/Gift/src/Jobs/AutoDirectionalCoupon.php",
+		"/Users/fourn/sites/ec/modules/component/Gift/src/Listeners/NewUser/CouponEventListener.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/composer.json",
+		"/Users/fourn/sites/ec/vendor/ibrand/backend/src/Console/InstallExtensionsCommand.php",
+		"/Users/fourn/sites/ec/vendor/laravel-admin-ext/helpers/src/Helpers.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/Promotion/CouponController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscount.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/resources/views/promotion/coupon/index.blade.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Repositories/DiscountRepository.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/DiscountService.php",
+		"/Users/fourn/sites/ec/tests/Feature/ExampleTest.php",
+		"/Users/fourn/sites/ec/tests/Unit/ExampleTest.php",
+		"/Users/fourn/sites/ec/.gitignore",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Observers/ProductObserver.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Processor/MultiGrouponRefundProcessor.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Listeners/GoodsPurchaseEventListener.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Listeners/PromotionEventListener.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/Promotion/DiscountController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscountRule.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscountAction.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/helpers.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/helpers.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/composer.json",
+		"/Users/fourn/sites/ec/modules/component/Supplier/src/SupplierServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/component/Supplier/src/Supplier.php",
+		"/Users/fourn/sites/ec/modules/component/Supplier/composer.json",
+		"/Users/fourn/sites/ec/.env",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/ContainsProductRuleChecker.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Schedules/SeckillSchedule.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Applicators/PointApplicator.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/DiscountEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Contracts/DiscountItemContract.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Processors/OrderProcessor.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/routes.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/PointMall/GoodsController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Facades/DiscountService.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Exceptions/Traits/InfoTrait.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Exceptions/Displayers/ArrayDisplayer.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Facades/GoodsService.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Actions/OrderFixedDiscountAction.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Actions/OrderPercentageDiscountAction.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Applicators/DiscountApplicator.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/CartQuantityRuleChecker.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/CouponEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/DatesEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/DiscountEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/ItemTotalRuleChecker.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/RulesEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/UsageLimitEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Distributors/PercentageIntegerDistributor.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Models/Coupon.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Models/Discount.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Models/Rule.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Policies/CouponPolicy.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Repositories/Eloquent/DiscountRepositoryEloquent.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/tests/BaseTest.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/tests/database/2018_06_26_115656_create_order_tables.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/tests/Models/Order.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/migrations/2019_12_31_115801_create_discount_tables.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Actions/DiscountAction.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Contracts/AdjustmentContract.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Contracts/DiscountActionContract.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Contracts/DiscountContract.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Contracts/DiscountSubjectContract.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Contracts/RuleCheckerContract.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/GoodsService.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/CommodityController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/Goods.php",
+		"/Users/fourn/sites/ec/modules/component/Payment/src/Services/PaymentService.php",
+		"/Users/fourn/sites/ec/modules/component/Payment/src/Contracts/PaymentsSubjectContract.php",
+		"/Users/fourn/sites/ec/modules/component/Payment/src/Providers/PaymentServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/GoodsAttributeController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/RefundService.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/PaymentService.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/OrderService.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/MicroPage/CompoentController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/GoodsModelsController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/GoodsPurchaseController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/ImageController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Repositories/GoodsRepository.php",
+		"/Users/fourn/sites/ec/modules/component/Invoice/src/InvoiceServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/component/Product/src/Repositories/GoodsRepository.php",
+		"/Users/fourn/sites/ec/modules/component/Invoice/composer.json",
+		"/Users/fourn/sites/ec/modules/component/Product/migrations/2019_12_31_134502_create_product_tables.php",
+		"/Users/fourn/sites/ec/modules/component/Suit/migrations/2019_12_18_111052_create_suits_tables.php",
+		"/Users/fourn/sites/ec/modules/component/Reduce/migrations/create_reduce_tables.php.stub",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/SpecialGoodsService.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/MultiGrouponService.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Console/ImportPointMallMenus.php",
+		"/Users/fourn/sites/ec/vendor/prettus/l5-repository/src/Prettus/Repository/Traits/TransformableTrait.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Controllers/V3/LiveController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Repositories/GoodsCategoryRepository.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/GoodsCategory.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/Relations/BelongToUserTrait.php",
+		"/Users/fourn/sites/ec/phpunit.xml",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/phpunit.xml",
+		"/Users/fourn/Downloads/3月18日内部沟通.md",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/CategoryController.php",
+		"/Users/fourn/sites/ec/vendor/composer/composer/src/Composer/Repository/BaseRepository.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/Balance.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Models/Goods.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Models/Product.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/.gitignore",
+		"/Users/fourn/sites/ec/modules/component/Product/src/Repositories/Eloquent/ProductRepositoryEloquent.php",
+		"/Users/fourn/sites/ec/modules/component/Product/src/Repositories/Eloquent/GoodsRepositoryEloquent.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 129.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/fourn/sites/linian/Modules/Product/Services/GoodsService.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.21.region_keys":
+							[
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 706.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/fourn/sites/linian/Modules/Product/Services/Checkers/GoodsChecker.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2730,
+								2730
+							]
+						],
+						"settings":
+						{
+							"SL.22.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1985.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 108.0
+	},
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "linian.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"couponconnt",
+				"modules/component/Gift/src/Listeners/DirectionalCoupon/CouponEventListener.php"
+			],
+			[
+				"d",
+				"Dockerfile"
+			],
+			[
+				"Discount\\Repositories\\CouponRepository",
+				"modules/component/Discount/src/Repositories/CouponRepository.php"
+			],
+			[
+				"Gift\\Processor\\DirectionalCouponProcessor",
+				"modules/component/Gift/src/Processor/DirectionalCouponProcessor.php"
+			],
+			[
+				"Gift\\Services\\DirectionalCouponService",
+				"modules/component/Gift/src/Services/DirectionalCouponService.php"
+			],
+			[
+				"Gift\\Repositories\\GiftDirectionalCouponRepository",
+				"modules/component/Gift/src/Repositories/GiftDirectionalCouponRepository.php"
+			],
+			[
+				"Gift\\Listeners\\DirectionalCoupon\\CouponEventListener",
+				"modules/component/Gift/src/Listeners/DirectionalCoupon/CouponEventListener.php"
+			],
+			[
+				"Component\\Gift\\Repositories\\GiftDirectionalCouponRepository",
+				"modules/component/Gift/src/Repositories/GiftDirectionalCouponRepository.php"
+			],
+			[
+				"giftDirectionalCouponRepository",
+				"modules/component/Gift/src/Repositories/GiftDirectionalCouponRepository.php"
+			],
+			[
+				"Backend\\Store\\Repositories\\DiscountRepository",
+				"modules/EC.Open.Backend/Store/src/Repositories/DiscountRepository.php"
+			],
+			[
+				"Store\\Service\\DiscountService",
+				"modules/EC.Open.Backend/Store/src/Service/DiscountService.php"
+			],
+			[
+				"Component\\Supplier\\SupplierSe",
+				"modules/component/Supplier/src/SupplierServiceProvider.php"
+			],
+			[
+				"Component\\Supplier\\SupplierServiceProvider",
+				"modules/component/Supplier/src/SupplierServiceProvider.php"
+			],
+			[
+				"InvoiceServiceProvider",
+				"modules/component/Invoice/src/InvoiceServiceProvider.php"
+			],
+			[
+				"ComposerScripts",
+				"vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php"
+			],
+			[
+				"composer",
+				"modules/EC.Open.Core/composer.json"
+			],
+			[
+				"",
+				".env"
+			],
+			[
+				".env",
+				".env"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "linain",
+		"selected_items":
+		[
+			[
+				"linain",
+				"~/SublimeProjects/linian.sublime-project"
+			],
+			[
+				"laravelmo",
+				"~/SublimeProjects/laravel-modules.sublime-project"
+			],
+			[
+				"laravel",
+				"~/SublimeProjects/laravel-modules.sublime-project"
+			],
+			[
+				"meedu",
+				"~/SublimeProjects/meedu.sublime-project"
+			],
+			[
+				"flori",
+				"~/SublimeProjects/floribook.sublime-project"
+			],
+			[
+				"florj",
+				"~/SublimeProjects/floribook.sublime-project"
+			],
+			[
+				"fl",
+				"~/SublimeProjects/florihelper.sublime-project"
+			],
+			[
+				"florihe",
+				"~/SublimeProjects/florihelper.sublime-project"
+			],
+			[
+				"",
+				"~/SublimeProjects/asgrad.sublime-project"
+			],
+			[
+				"meed",
+				"~/SublimeProjects/meedu.sublime-project"
+			],
+			[
+				"as",
+				"~/SublimeProjects/asgrad.sublime-project"
+			],
+			[
+				"flor",
+				"~/SublimeProjects/florihelper.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

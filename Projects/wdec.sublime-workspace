@@ -1,0 +1,641 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Rou",
+				"Route::get\tBasic Get Route."
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/fourn/sites/wdec/Modules/Media/Http/Controllers/Admin/MediaController.php",
+			"settings":
+			{
+				"buffer_size": 3606,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/wdec/Modules/Media/Services/MediaManager.php",
+			"settings":
+			{
+				"buffer_size": 8063,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/wdec/.env.example",
+			"settings":
+			{
+				"buffer_size": 806,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/wdec/Modules/Core/Services/Composer.php",
+			"settings":
+			{
+				"buffer_size": 2197,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packageremove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimecode",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"packageins",
+				"Package Control: Install Package"
+			],
+			[
+				"packagere",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"material theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"laravel",
+				"Laravel Artisan 5: List"
+			],
+			[
+				"packagtinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"packageinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"packagins",
+				"Package Control: Install Package"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 214.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/fourn/sites/wdec",
+		"/Users/fourn/sites/wdec/Modules",
+		"/Users/fourn/sites/wdec/Modules/Core",
+		"/Users/fourn/sites/wdec/Modules/Core/Providers",
+		"/Users/fourn/sites/wdec/Modules/Core/Services",
+		"/Users/fourn/sites/wdec/Modules/Media",
+		"/Users/fourn/sites/wdec/Modules/Media/Http",
+		"/Users/fourn/sites/wdec/Modules/Media/Http/Controllers",
+		"/Users/fourn/sites/wdec/Modules/Media/Http/Controllers/Admin",
+		"/Users/fourn/sites/wdec/Modules/Media/Routes",
+		"/Users/fourn/sites/wdec/Modules/Media/Services"
+	],
+	"file_history":
+	[
+		"/Users/fourn/sites/wdec/Modules/Media/Routes/admin.php",
+		"/Users/fourn/sites/wdec/Modules/Setting/module.json",
+		"/Users/fourn/sites/wdec/Modules/Setting/composer.json",
+		"/Users/fourn/sites/wdec/Modules/Core/Providers/CoreRouteServiceProvider.php",
+		"/Users/fourn/sites/wdec/Modules/Core/Providers/CoreServiceProvider.php",
+		"/Users/fourn/sites/wdec/Modules/User/Providers/UserServiceProvider.php",
+		"/Users/fourn/sites/wdec/Modules/User/Providers/RouteServiceProvider.php",
+		"/Users/fourn/sites/wdec/Modules/User/Http/Controllers/UserController.php",
+		"/Users/fourn/sites/wdec/config/app.php",
+		"/Users/fourn/sites/wdec/resources/lang/zh-CN.json",
+		"/Users/fourn/sites/wdec/Modules/User/Entities/User.php",
+		"/Users/fourn/sites/wdec/Modules/Core/Routes/api.php",
+		"/Users/fourn/sites/wdec/app/Http/Kernel.php",
+		"/Users/fourn/sites/wdec/config/auth.php",
+		"/Users/fourn/sites/wdec/Modules/Core/Routes/admin.php",
+		"/Users/fourn/sites/wdec/config/modules.php",
+		"/Users/fourn/sites/wdec/composer.json",
+		"/Users/fourn/sites/wdec/.env.example",
+		"/Users/fourn/sites/wdec/.php_cs.dist",
+		"/Users/fourn/sites/wdec/Modules/Core/Http/Controllers/CoreController.php",
+		"/Users/fourn/sites/wdec/.gitignore",
+		"/Users/fourn/sites/wdec/app/Http/Controllers/Controller.php",
+		"/Users/fourn/sites/wdshop/.php_cs.dist",
+		"/Users/fourn/sites/wdshop/app/Http/Controllers/Controller.php",
+		"/Users/fourn/sites/wdshop/.styleci.yml",
+		"/Users/fourn/sites/wdshop/app/Http/Controllers/Auth/LoginController.php",
+		"/Users/fourn/sites/wdshop/app/Http/Controllers/Auth/RegisterController.php",
+		"/Users/fourn/sites/wdshop/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/Users/fourn/sites/wdshop/app/Http/Controllers/Auth/VerificationController.php",
+		"/Users/fourn/sites/wdshop/app/Http/Controllers/Auth/ConfirmPasswordController.php",
+		"/Users/fourn/sites/wdshop/app/User.php",
+		"/Users/fourn/sites/wdshop/.gitignore",
+		"/Users/fourn/sites/wdshop/composer.json",
+		"/Users/fourn/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/fourn/Library/Application Support/Sublime Text 3/Packages/User/Vue Component.sublime-settings",
+		"/Users/fourn/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/fourn/sites/wdshop/config/broadcasting.php",
+		"/Users/fourn/sites/wdshop/package.json",
+		"/Users/fourn/sites/wdshop/.editorconfig",
+		"/Users/fourn/sites/ec/modules/component/Address/.travis.yml",
+		"/Users/fourn/sites/ec/vendor/ibrand/setting/src/Repositories/CacheDecorator.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/setting/src/Repositories/EloquentSetting.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/setting/src/Repositories/SettingInterface.php",
+		"/Users/fourn/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/fourn/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/fourn/sites/ec/modules/component/Address/src/RepositoryContract.php",
+		"/Users/fourn/sites/ec/composer.json",
+		"/Users/fourn/sites/ec/modules/component/Address/src/Address.php",
+		"/Users/fourn/sites/ec/modules/component/Address/src/Repository.php",
+		"/Users/fourn/sites/ec/modules/component/Address/src/ServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/component/Address/migrations/2019_12_31_113316_create_addresses_tables.php",
+		"/Users/fourn/sites/ec/modules/component/Address/tests/database/2016_03_29_061248_create_el_addresses_test_table.php",
+		"/Users/fourn/sites/ec/modules/component/Address/README.md",
+		"/Users/fourn/sites/ec/modules/component/Address/phpunit.xml",
+		"/Users/fourn/sites/ec/modules/component/Address/LICENSE",
+		"/Users/fourn/sites/ec/modules/component/Address/.php_cs",
+		"/Users/fourn/sites/ec/vendor/dingo/api/composer.json",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/composer.json",
+		"/Users/fourn/sites/ec/modules/component/Address/tests/AddressTest.php",
+		"/Users/fourn/sites/ec/modules/component/User/tests/BaseTest.php",
+		"/Users/fourn/sites/ec/modules/component/User/tests/UserTest.php",
+		"/Users/fourn/sites/ec/modules/component/Address/composer.json",
+		"/Users/fourn/sites/ec/vendor/laravel/framework/src/Illuminate/Foundation/Console/PackageDiscoverCommand.php",
+		"/Users/fourn/sites/ec/vendor/wikimedia/composer-merge-plugin/src/Merge/ExtraPackage.php",
+		"/Users/fourn/sites/ec/app/Console/Kernel.php",
+		"/Users/fourn/sites/ec/routes/console.php",
+		"/Users/fourn/sites/ec/vendor/laravel/framework/src/Illuminate/Console/Command.php",
+		"/Users/fourn/sites/ec/vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php",
+		"/Users/fourn/sites/ec/modules/Distribution/Backend/composer.json",
+		"/Users/fourn/sites/ec/modules/Distribution/Backend/src/Providers/DistributionBackendProvider.php",
+		"/Users/fourn/sites/ec/modules/Custom.Demo/src/Controllers/TestController.php",
+		"/Users/fourn/sites/ec/modules/Distribution/Backend/src/Models/AgentCommission.php",
+		"/Users/fourn/sites/ec/modules/Distribution/Backend/src/Models/AgentCash.php",
+		"/Users/fourn/sites/ec/modules/Distribution/Backend/src/DistributionBackend.php",
+		"/Users/fourn/sites/ec/modules/Custom.Demo/src/Models/Goods.php",
+		"/Users/fourn/sites/ec/modules/Custom.Demo/src/Repository/GoodsRepositoryEloquent.php",
+		"/Users/fourn/sites/ec/modules/component/Product/src/Repositories/Eloquent/GoodsRepositoryEloquent.php",
+		"/Users/fourn/sites/ec/modules/Custom.Demo/src/api.php",
+		"/Users/fourn/sites/ec/modules/Custom.Demo/.php_cs",
+		"/Users/fourn/sites/ec/modules/Discover/Backend/src/routes.php",
+		"/Users/fourn/sites/ec/modules/Discover/Core/src/Providers/CoreServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/Discover/Core/composer.json",
+		"/Users/fourn/sites/ec/modules/Discover/Server/composer.json",
+		"/Users/fourn/sites/ec/modules/Discover/Server/src/Providers/ServerServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/composer.json",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/src/ServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/src/Storage/SessionStorage.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/src/route.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/src/SmsController.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-ueditor/composer.json",
+		"/Users/fourn/sites/ec/vendor/ibrand/pay/src/PayServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/pay/src/Controllers/WechatPayNotifyController.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/backend/composer.json",
+		"/Users/fourn/sites/ec/vendor/ibrand/backend/src/Http/Controllers/AuthAdminController.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/pay/src/Controllers/OfficialAccountController.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/pay/src/Controllers/AlipayController.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/pay/src/Controllers/AlipayNotifyController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/PayNotify/RechargePayNotify.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Jobs/AutoCancelOrder.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Providers/AppServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-sms/src/Jobs/DbLogger.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-shopping-cart/.php_cs",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-express/src/Numbers/Kuaidi100Number.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-express/src/ServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-cache/src/CollectCacheRepository.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/common/src/CommonServiceProvider.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/common/composer.json",
+		"/Users/fourn/sites/ec/.env",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Member/src/Http/routes.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/routes.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/routes/api.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/routes/api-v3.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Providers/RouteServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/BalanceServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/BalanceOrder.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/BalanceCash.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/Balance.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/Listeners/BalanceOrderPaidSuccess.php",
+		"/Users/fourn/sites/ec/modules/component/Balance/src/Listeners/BalanceRefundEventListener.php",
+		"/Users/fourn/sites/ec/modules/component/Product/src/ProductServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Member/src/Http/Controllers/RechargeController.php",
+		"/Users/fourn/sites/ec/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/Users/fourn/sites/ec/app/Http/Middleware/TrimStrings.php",
+		"/Users/fourn/sites/ec/app/Http/Middleware/TrustProxies.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Member/src/Models/Balance.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/Attribute.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Member/src/Models/User.php",
+		"/Users/fourn/sites/ec/app/Http/Middleware/EncryptCookies.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 129.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/fourn/sites/wdec/Modules/Media/Http/Controllers/Admin/MediaController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								205,
+								205
+							]
+						],
+						"settings":
+						{
+							"SL.158.region_keys":
+							[
+							],
+							"SL.168.region_keys":
+							[
+							],
+							"SL.225.region_keys":
+							[
+							],
+							"SL.241.region_keys":
+							[
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/fourn/sites/wdec/Modules/Media/Services/MediaManager.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8063,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7608,
+								7608
+							]
+						],
+						"settings":
+						{
+							"SL.159.region_keys":
+							[
+							],
+							"SL.242.region_keys":
+							[
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/fourn/sites/wdec/.env.example",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								806
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/fourn/sites/wdec/Modules/Core/Services/Composer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"SL.244.region_keys":
+							[
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 108.0
+	},
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wdec.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"ComposerScripts",
+				"vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php"
+			],
+			[
+				"",
+				".env"
+			],
+			[
+				".env",
+				".env"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"as",
+				"~/SublimeProjects/asgrad.sublime-project"
+			],
+			[
+				"cms",
+				"~/SublimeProjects/cms03.sublime-project"
+			],
+			[
+				"",
+				"~/SublimeProjects/laravel.sublime-project"
+			],
+			[
+				"ec",
+				"~/SublimeProjects/ec.sublime-project"
+			],
+			[
+				"laravel",
+				"~/SublimeProjects/laravel.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 389.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
