@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"cur",
+				"curCategory"
+			],
+			[
+				"uni",
+				"uni.text\tuni.error"
+			],
+			[
+				"un",
+				"uni.text\tuni.error"
+			],
+			[
 				"Rou",
 				"Route::get\tBasic Get Route."
 			]
@@ -11,6 +23,33 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/fourn/WeChatProjects/linian-weapp/src/pages/goods/list.vue",
+			"settings":
+			{
+				"buffer_size": 4109,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/WeChatProjects/linian-weapp/src/pages/integral/integral.vue",
+			"settings":
+			{
+				"buffer_size": 4557,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/WeChatProjects/linian-weapp/src/pages/cart/cart.vue",
+			"settings":
+			{
+				"buffer_size": 19239,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -24,20 +63,96 @@
 		"selected_items":
 		[
 			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"removepack",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"eslint",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"preferences",
+				"Preferences: Settings"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"removepackage",
+				"Package Control: Remove Package"
+			],
+			[
+				"remore",
+				"Project Manager: Remove Project"
+			],
+			[
+				"vue",
+				"VUEFormatter: Set Plugin Options"
+			],
+			[
+				"vuefo",
+				"VUEFormatter"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"listpacka",
+				"Package Control: List Packages"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"listpackage",
+				"Package Control: List Packages"
+			],
+			[
+				"packagelist",
+				"Package Control: List Packages"
+			],
+			[
+				"packageinstall",
+				"Package Control: Install Package"
+			],
+			[
+				"pacakgelist",
+				"Package Control: List Packages"
+			],
+			[
 				"listpack",
 				"Package Control: List Packages"
 			],
 			[
 				"ke y",
 				"Preferences: Key Bindings"
-			],
-			[
-				"key",
-				"Preferences: Key Bindings"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"keybin",
@@ -56,10 +171,6 @@
 				"Laravel Artisan 5: Make:Controller"
 			],
 			[
-				"remove",
-				"Package Control: Remove Package"
-			],
-			[
 				"keybinnd",
 				"Preferences: Key Bindings"
 			],
@@ -74,10 +185,6 @@
 			[
 				"package list",
 				"Package Control: List Packages"
-			],
-			[
-				"packageinstall",
-				"Package Control: Install Package"
 			],
 			[
 				"unit",
@@ -112,10 +219,6 @@
 				"Project: Save As"
 			],
 			[
-				"project",
-				"Project: Save As"
-			],
-			[
 				"packageins",
 				"Package Control: Install Package"
 			],
@@ -126,10 +229,6 @@
 			[
 				"remo",
 				"Package Control: Remove Package"
-			],
-			[
-				"package install",
-				"Package Control: Install Package"
 			],
 			[
 				"package remove",
@@ -192,50 +291,75 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/fourn/sites/linian",
-		"/Users/fourn/sites/linian/app",
-		"/Users/fourn/sites/linian/app/Providers",
-		"/Users/fourn/sites/linian/Modules",
-		"/Users/fourn/sites/linian/Modules/Components",
-		"/Users/fourn/sites/linian/Modules/Components/Http",
-		"/Users/fourn/sites/linian/Modules/Components/Http/Controllers",
-		"/Users/fourn/sites/linian/Modules/Components/Http/Controllers/Admin",
-		"/Users/fourn/sites/linian/Modules/Components/Http/Resources",
-		"/Users/fourn/sites/linian/Modules/Core",
-		"/Users/fourn/sites/linian/Modules/Core/Providers",
-		"/Users/fourn/sites/linian/Modules/Product",
-		"/Users/fourn/sites/linian/Modules/Product/Services",
-		"/Users/fourn/sites/linian/Modules/Product/Services/Checkers",
-		"/Users/fourn/sites/linian/Modules/System",
-		"/Users/fourn/sites/linian/Modules/System/Database",
-		"/Users/fourn/sites/linian/Modules/System/Database/Seeders",
-		"/Users/fourn/sites/linian/Modules/User",
-		"/Users/fourn/sites/linian/Modules/User/Http",
-		"/Users/fourn/sites/linian/Modules/User/Http/Controllers",
-		"/Users/fourn/sites/linian/Modules/User/Http/Controllers/Api",
-		"/Users/fourn/sites/linian/resources",
-		"/Users/fourn/sites/linian/resources/views",
-		"/Users/fourn/sites/linian/resources/views/announcement",
-		"/Users/fourn/sites/linian/resources/views/content"
+		"/Users/fourn/WeChatProjects/linian-weapp",
+		"/Users/fourn/WeChatProjects/linian-weapp/dist",
+		"/Users/fourn/WeChatProjects/linian-weapp/dist/dev",
+		"/Users/fourn/WeChatProjects/linian-weapp/dist/dev/mp-alipay",
+		"/Users/fourn/WeChatProjects/linian-weapp/dist/dev/mp-alipay/common",
+		"/Users/fourn/WeChatProjects/linian-weapp/src",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/common",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/common/js",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/cart",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/category",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/coupon",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/goods",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/index",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/integral",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/shop",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/user",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/store"
 	],
 	"file_history":
 	[
-		"/Users/fourn/sites/linian/app/Providers/AppServiceProvider.php",
-		"/Users/fourn/sites/linian/Modules/Core/Providers/CoreServiceProvider.php",
-		"/Users/fourn/sites/linian/resources/views/welcome.blade.php",
-		"/Users/fourn/sites/linian/resources/views/announcement/content.blade.php",
-		"/Users/fourn/sites/linian/Modules/Product/Services/GoodsService.php",
-		"/Users/fourn/sites/linian/Modules/Product/Services/Checkers/GoodsChecker.php",
-		"/Users/fourn/sites/linian/Modules/User/Http/Controllers/Api/AuthorizationsController.php",
-		"/Users/fourn/sites/linian/Modules/User/Http/Controllers/Api/UsersController.php",
-		"/Users/fourn/sites/linian/resources/views/content/article.blade.php",
-		"/Users/fourn/sites/linian/Modules/System/Database/Seeders/SeedAdminsTableSeeder.php",
-		"/Users/fourn/sites/linian/Modules/System/Database/Seeders/SeedMenuTableSeeder.php",
-		"/Users/fourn/sites/linian/Modules/Components/Http/Controllers/Admin/TagController.php",
-		"/Users/fourn/sites/linian/resources/views/mini_admin/share.blade.php",
-		"/Users/fourn/sites/linian/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php",
-		"/Users/fourn/sites/linian/Modules/Product/Services/GoodsProductService.php",
-		"/Users/fourn/sites/linian/Modules/Product/Services/ApiGoodsService.php",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/common/js/utils.js",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/index/index.vue",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/shop/shop.vue",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/category/category.vue",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/goods/list.vue",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/goods/show.vue",
+		"/Users/fourn/WeChatProjects/linian-weapp/env.js",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/common/js/api.js",
+		"/Users/fourn/Documents/Alfred.alfredpreferences/workflows/user.workflow.52073442-2932-4D98-B250-DDA347CA3353/YoudaoTranslate.php",
+		"/Users/fourn/Library/Application Support/Sublime Text 3/Packages/User/uni.error.sublime-snippet",
+		"/Users/fourn/Library/Application Support/Sublime Text 3/Packages/User/uin.error",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/cart/cart.vue",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/coupon/coupon.vue",
+		"/Users/fourn/Library/Application Support/Sublime Text 3/Installed Packages/VueFormatter.sublime-package/VUEFormatter.sublime-settings",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/user/user.vue",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/main.js",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages.json",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/store/index.js",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/App.vue",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/components/index/coupon.vue",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Actions/UnitFixedDiscountAction.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/CouponEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/RulesEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/DiscountEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/ContainsCategoryRuleChecker.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscountAction.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscount.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Distributors/PercentageIntegerDistributor.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/ContainsWechatGroupChecker.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/ContainsProductRuleChecker.php",
+		"/Users/fourn/sites/ec/modules/component/Order/src/Models/Adjustment.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Actions/DiscountUnitActionContract.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Contracts/RuleCheckerContract.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/DiscountEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Contracts/DiscountItemContract.php",
+		"/Users/fourn/sites/ec/modules/component/Order/src/Models/Order.php",
+		"/Users/fourn/sites/ec/modules/component/Order/src/Models/Comment.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Services/DiscountService.php",
+		"/Users/fourn/Downloads/3987921_linian.ynwudian.com_nginx/3987921_linian.ynwudian.com.key",
+		"/Users/fourn/Downloads/3987921_linian.ynwudian.com_nginx/3987921_linian.ynwudian.com.pem",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Repositories/Eloquent/DiscountRepositoryEloquent.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Controllers/V3/ShoppingCartController.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-shopping-cart/src/Cart.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Controllers/V3/DiscountController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Controllers/V2/DiscountController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Repository/UserRepository.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Controllers/V2/ShoppingController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Controllers/V3/ShoppingController.php",
 		"/Users/fourn/sites/ec/database/migrations/2016_01_04_173148_create_admin_tables.php",
 		"/Users/fourn/sites/ec/modules/component/Advert/README.md",
 		"/Users/fourn/sites/ec/modules/component/Favorite/tests/BaseTest.php",
@@ -263,7 +387,6 @@
 		"/Users/fourn/sites/ec/vendor/ibrand/backend/src/Console/InstallExtensionsCommand.php",
 		"/Users/fourn/sites/ec/vendor/laravel-admin-ext/helpers/src/Helpers.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/Promotion/CouponController.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscount.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/resources/views/promotion/coupon/index.blade.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Repositories/DiscountRepository.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/DiscountService.php",
@@ -276,7 +399,6 @@
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Listeners/PromotionEventListener.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/Promotion/DiscountController.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscountRule.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscountAction.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/helpers.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/helpers.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/composer.json",
@@ -284,11 +406,8 @@
 		"/Users/fourn/sites/ec/modules/component/Supplier/src/Supplier.php",
 		"/Users/fourn/sites/ec/modules/component/Supplier/composer.json",
 		"/Users/fourn/sites/ec/.env",
-		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/ContainsProductRuleChecker.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Schedules/SeckillSchedule.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Applicators/PointApplicator.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/DiscountEligibilityChecker.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Contracts/DiscountItemContract.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Processors/OrderProcessor.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/routes.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/PointMall/GoodsController.php",
@@ -300,18 +419,13 @@
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Actions/OrderPercentageDiscountAction.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Applicators/DiscountApplicator.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/CartQuantityRuleChecker.php",
-		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/CouponEligibilityChecker.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/DatesEligibilityChecker.php",
-		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/DiscountEligibilityChecker.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/ItemTotalRuleChecker.php",
-		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/RulesEligibilityChecker.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/UsageLimitEligibilityChecker.php",
-		"/Users/fourn/sites/ec/modules/component/Discount/src/Distributors/PercentageIntegerDistributor.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Models/Coupon.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Models/Discount.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Models/Rule.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Policies/CouponPolicy.php",
-		"/Users/fourn/sites/ec/modules/component/Discount/src/Repositories/Eloquent/DiscountRepositoryEloquent.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/tests/BaseTest.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/tests/database/2018_06_26_115656_create_order_tables.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/tests/Models/Order.php",
@@ -325,39 +439,18 @@
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/GoodsService.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/CommodityController.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/Goods.php",
-		"/Users/fourn/sites/ec/modules/component/Payment/src/Services/PaymentService.php",
-		"/Users/fourn/sites/ec/modules/component/Payment/src/Contracts/PaymentsSubjectContract.php",
-		"/Users/fourn/sites/ec/modules/component/Payment/src/Providers/PaymentServiceProvider.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/GoodsAttributeController.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/RefundService.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/PaymentService.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/OrderService.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/MicroPage/CompoentController.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/GoodsModelsController.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/GoodsPurchaseController.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/ImageController.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Repositories/GoodsRepository.php",
-		"/Users/fourn/sites/ec/modules/component/Invoice/src/InvoiceServiceProvider.php",
-		"/Users/fourn/sites/ec/modules/component/Product/src/Repositories/GoodsRepository.php",
-		"/Users/fourn/sites/ec/modules/component/Invoice/composer.json",
-		"/Users/fourn/sites/ec/modules/component/Product/migrations/2019_12_31_134502_create_product_tables.php",
-		"/Users/fourn/sites/ec/modules/component/Suit/migrations/2019_12_18_111052_create_suits_tables.php",
-		"/Users/fourn/sites/ec/modules/component/Reduce/migrations/create_reduce_tables.php.stub",
-		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/SpecialGoodsService.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/MultiGrouponService.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Console/ImportPointMallMenus.php",
-		"/Users/fourn/sites/ec/vendor/prettus/l5-repository/src/Prettus/Repository/Traits/TransformableTrait.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Controllers/V3/LiveController.php"
+		"/Users/fourn/sites/ec/modules/component/Payment/src/Services/PaymentService.php"
 	],
 	"find":
 	{
-		"height": 33.0
+		"height": 71.0
 	},
 	"find_in_files":
 	{
-		"height": 129.0,
+		"height": 161.0,
 		"where_history":
 		[
+			"/Users/fourn/WeChatProjects/linian-weapp/src"
 		]
 	},
 	"find_state":
@@ -365,7 +458,25 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"respondWithToken"
+			"userData",
+			"&& !this.noMore",
+			"curCategory",
+			"categoryData",
+			"initCid",
+			"user",
+			"settings",
+			"authrequ",
+			"401",
+			"createToken",
+			"request",
+			"console",
+			"login",
+			"settings",
+			"getCartDate",
+			"11",
+			"setTabBar",
+			"action_info",
+			"'\">\n"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -383,8 +494,113 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/fourn/WeChatProjects/linian-weapp/src/pages/goods/list.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2050,
+								2050
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1643.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/fourn/WeChatProjects/linian-weapp/src/pages/integral/integral.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								113
+							],
+							[
+								1356,
+								1364
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/fourn/WeChatProjects/linian-weapp/src/pages/cart/cart.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8329,
+								8228
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -394,7 +610,7 @@
 	},
 	"input":
 	{
-		"height": 71.0
+		"height": 73.0
 	},
 	"layout":
 	{
@@ -421,18 +637,14 @@
 	"menu_visible": true,
 	"output.SublimeLinter":
 	{
-		"height": 108.0
-	},
-	"output.exec":
-	{
-		"height": 152.0
+		"height": 0.0
 	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "linian.sublime-project",
+	"project": "linian-weapp.sublime-project",
 	"replace":
 	{
 		"height": 62.0
@@ -444,6 +656,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"pages/integral/integral",
+				"src/pages/integral/integral.vue"
+			],
+			[
+				"env.js",
+				"env.js"
+			],
 			[
 				"couponconnt",
 				"modules/component/Gift/src/Listeners/DirectionalCoupon/CouponEventListener.php"
@@ -522,13 +742,9 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "linain",
+		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"linain",
-				"~/SublimeProjects/linian.sublime-project"
-			],
 			[
 				"laravelmo",
 				"~/SublimeProjects/laravel-modules.sublime-project"

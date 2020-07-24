@@ -12,43 +12,68 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/fourn/sites/wdec/Modules/Setting/Services/SettingForm.php",
+			"file": "/Users/fourn/sites/fourn/admin-config/src/Http/Controllers/AdminConfigController.php",
 			"settings":
 			{
-				"buffer_size": 2911,
+				"buffer_size": 6307,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/fourn/sites/wdec/Modules/Setting/helpers.php",
+			"file": "/Users/fourn/sites/fourn/admin-config/src/AdminConfigModel.php",
 			"settings":
 			{
-				"buffer_size": 237,
+				"buffer_size": 204,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/fourn/sites/wdec/Modules/Setting/Http/Controllers/Admin/SettingController.php",
+			"file": "/Users/fourn/sites/fourn/admin-config/config/admin-config.php",
 			"settings":
 			{
-				"buffer_size": 6099,
+				"buffer_size": 2312,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/fourn/sites/wdec/Modules/Setting/Entities/SettingModel.php",
+			"file": "/Users/fourn/sites/fourn/admin-config/database/migrations/2017_07_17_040159_create_config_table.php",
 			"settings":
 			{
-				"buffer_size": 218,
+				"buffer_size": 593,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/fourn/sites/wdec/Modules/Setting/Database/Migrations/2020_02_25_084440_create_settings_table.php",
+			"file": "/Users/fourn/sites/fourn/admin-config/routes/web.php",
 			"settings":
 			{
-				"buffer_size": 734,
+				"buffer_size": 205,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/fourn/admin-config/src/ConfigForm.php",
+			"settings":
+			{
+				"buffer_size": 2959,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/fourn/admin-config/src/AdminConfigServiceProvider.php",
+			"settings":
+			{
+				"buffer_size": 932,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/fourn/admin-config/src/AdminConfig.php",
+			"settings":
+			{
+				"buffer_size": 269,
 				"line_ending": "Unix"
 			}
 		}
@@ -189,21 +214,18 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/fourn/sites/wdec",
-		"/Users/fourn/sites/wdec/Modules",
-		"/Users/fourn/sites/wdec/Modules/Setting",
-		"/Users/fourn/sites/wdec/Modules/Setting/Database",
-		"/Users/fourn/sites/wdec/Modules/Setting/Database/Migrations",
-		"/Users/fourn/sites/wdec/Modules/Setting/Entities",
-		"/Users/fourn/sites/wdec/Modules/Setting/Http",
-		"/Users/fourn/sites/wdec/Modules/Setting/Http/Controllers",
-		"/Users/fourn/sites/wdec/Modules/Setting/Http/Controllers/Admin",
-		"/Users/fourn/sites/wdec/Modules/Setting/Providers",
-		"/Users/fourn/sites/wdec/Modules/Setting/Routes",
-		"/Users/fourn/sites/wdec/Modules/Setting/Services"
+		"/Users/fourn/sites/fourn/admin-config",
+		"/Users/fourn/sites/fourn/admin-config/config",
+		"/Users/fourn/sites/fourn/admin-config/database",
+		"/Users/fourn/sites/fourn/admin-config/database/migrations",
+		"/Users/fourn/sites/fourn/admin-config/routes",
+		"/Users/fourn/sites/fourn/admin-config/src",
+		"/Users/fourn/sites/fourn/admin-config/src/Http",
+		"/Users/fourn/sites/fourn/admin-config/src/Http/Controllers"
 	],
 	"file_history":
 	[
+		"/Users/fourn/sites/fourn/admin-config/src/AdminConfig.php",
 		"/Users/fourn/sites/wdec/Modules/Setting/setting.php",
 		"/Users/fourn/sites/wdec/Modules/Media/Http/Controllers/Admin/MediaController.php",
 		"/Users/fourn/sites/wdec/Modules/Media/Services/MediaManager.php",
@@ -330,8 +352,7 @@
 		"/Users/fourn/sites/ec/modules/component/Balance/src/Listeners/BalanceRefundEventListener.php",
 		"/Users/fourn/sites/ec/modules/component/Product/src/ProductServiceProvider.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Member/src/Http/Controllers/RechargeController.php",
-		"/Users/fourn/sites/ec/app/Http/Middleware/RedirectIfAuthenticated.php",
-		"/Users/fourn/sites/ec/app/Http/Middleware/TrimStrings.php"
+		"/Users/fourn/sites/ec/app/Http/Middleware/RedirectIfAuthenticated.php"
 	],
 	"find":
 	{
@@ -349,7 +370,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"Controller"
+			"rangeFoo",
+			"[$fieldType]"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -367,133 +389,59 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/fourn/sites/wdec/Modules/Setting/Services/SettingForm.php",
+					"file": "/Users/fourn/sites/fourn/admin-config/src/Http/Controllers/AdminConfigController.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2911,
+						"buffer_size": 6307,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2672,
-								2672
+								1880,
+								1880
 							]
 						],
 						"settings":
 						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
 							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/fourn/sites/wdec/Modules/Setting/helpers.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 237,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								191,
-								191
-							]
-						],
-						"settings":
-						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1199.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/Users/fourn/sites/wdec/Modules/Setting/Http/Controllers/Admin/SettingController.php",
+					"buffer": 1,
+					"file": "/Users/fourn/sites/fourn/admin-config/src/AdminConfigModel.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6099,
+						"buffer_size": 204,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1400,
-								1400
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 986.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/fourn/sites/wdec/Modules/Setting/Entities/SettingModel.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 218,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								155,
-								155
-							]
-						],
-						"settings":
-						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -503,30 +451,173 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "/Users/fourn/sites/wdec/Modules/Setting/Database/Migrations/2020_02_25_084440_create_settings_table.php",
+					"buffer": 2,
+					"file": "/Users/fourn/sites/fourn/admin-config/config/admin-config.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 734,
+						"buffer_size": 2312,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								275,
-								275
+								1632,
+								1632
 							]
 						],
 						"settings":
 						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
 							"syntax": "Packages/PHP/PHP.sublime-syntax",
 							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/fourn/sites/fourn/admin-config/database/migrations/2017_07_17_040159_create_config_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/fourn/sites/fourn/admin-config/routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/fourn/sites/fourn/admin-config/src/ConfigForm.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								692,
+								692
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/fourn/sites/fourn/admin-config/src/AdminConfigServiceProvider.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								525,
+								525
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 70.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/fourn/sites/fourn/admin-config/src/AdminConfig.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -573,16 +664,12 @@
 	{
 		"height": 108.0
 	},
-	"output.exec":
-	{
-		"height": 152.0
-	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "wdec.sublime-project",
+	"project": "admin-config.sublime-project",
 	"replace":
 	{
 		"height": 62.0
@@ -659,7 +746,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 389.0,
+	"side_bar_width": 312.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

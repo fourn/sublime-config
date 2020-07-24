@@ -1,0 +1,870 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Points",
+				"PointsMallOrders"
+			],
+			[
+				"get",
+				"getList"
+			],
+			[
+				"cou",
+				"coupon_id"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"used",
+				"used-record"
+			],
+			[
+				"el",
+				"eldp\teldp: element-ui el-date-picker"
+			],
+			[
+				"el-",
+				"el-pagination"
+			],
+			[
+				"uni",
+				"uni.text\tuni.error"
+			],
+			[
+				"un",
+				"uni.text\tuni.error"
+			],
+			[
+				"Rou",
+				"Route::get\tBasic Get Route."
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/fourn/vue/linian-admin/src/views/marketing/points-malls/index.vue",
+			"settings":
+			{
+				"buffer_size": 9503,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/vue/linian-admin/src/views/marketing/components/PointsMallOrders.vue",
+			"settings":
+			{
+				"buffer_size": 1713,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/vue/linian-admin/src/api/discount/coupon.js",
+			"settings":
+			{
+				"buffer_size": 987,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/vue/linian-admin/src/router/modules/marketing.js",
+			"settings":
+			{
+				"buffer_size": 3674,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"el-",
+				"Snippet: v-el:el-name"
+			],
+			[
+				"packagelist",
+				"Package Control: List Packages"
+			],
+			[
+				"projectnew",
+				"Project Manager: Add New Project"
+			],
+			[
+				"removepack",
+				"Package Control: Remove Package"
+			],
+			[
+				"eslint",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"preferences",
+				"Preferences: Settings"
+			],
+			[
+				"removepackage",
+				"Package Control: Remove Package"
+			],
+			[
+				"remore",
+				"Project Manager: Remove Project"
+			],
+			[
+				"vue",
+				"VUEFormatter: Set Plugin Options"
+			],
+			[
+				"vuefo",
+				"VUEFormatter"
+			],
+			[
+				"listpacka",
+				"Package Control: List Packages"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"listpackage",
+				"Package Control: List Packages"
+			],
+			[
+				"packageinstall",
+				"Package Control: Install Package"
+			],
+			[
+				"pacakgelist",
+				"Package Control: List Packages"
+			],
+			[
+				"listpack",
+				"Package Control: List Packages"
+			],
+			[
+				"ke y",
+				"Preferences: Key Bindings"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"makeControll",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"keybinnd",
+				"Preferences: Key Bindings"
+			],
+			[
+				"removepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"packagein ",
+				"Package Control: Install Package"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"unit",
+				"PHPUnit: Run Tests"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"phpunit",
+				"Set Syntax: PHPUnit TextRunner"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"sublimecode",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"packageins",
+				"Package Control: Install Package"
+			],
+			[
+				"packagere",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"material theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"laravel",
+				"Laravel Artisan 5: List"
+			],
+			[
+				"packagtinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"packageinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"packagins",
+				"Package Control: Install Package"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 214.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/fourn/vue/linian-admin",
+		"/Users/fourn/vue/linian-admin/src",
+		"/Users/fourn/vue/linian-admin/src/api",
+		"/Users/fourn/vue/linian-admin/src/api/discount",
+		"/Users/fourn/vue/linian-admin/src/router",
+		"/Users/fourn/vue/linian-admin/src/router/modules",
+		"/Users/fourn/vue/linian-admin/src/views",
+		"/Users/fourn/vue/linian-admin/src/views/discount",
+		"/Users/fourn/vue/linian-admin/src/views/discount/components",
+		"/Users/fourn/vue/linian-admin/src/views/marketing",
+		"/Users/fourn/vue/linian-admin/src/views/marketing/components",
+		"/Users/fourn/vue/linian-admin/src/views/marketing/points-malls"
+	],
+	"file_history":
+	[
+		"/Users/fourn/vue/linian-admin/src/views/discount/components/CouponUsedRecord.vue",
+		"/Users/fourn/vue/linian-admin/src/views/discount/coupon/index.vue",
+		"/Users/fourn/vue/linian-admin/src/views/discount/components/CouponReceiveRecord.vue",
+		"/Users/fourn/vue/linian-admin/src/api/discount/coupon.js",
+		"/Users/fourn/vue/linian-admin/src/components/DiscountRecord/index.vue",
+		"/Users/fourn/vue/linian-admin/src/views/discount/components/GoodsTagsList.vue",
+		"/Users/fourn/vue/linian-admin/src/views/discount/index.vue",
+		"/Users/fourn/vue/linian-admin/src/views/discount/compoments/CouponReceiveRecord.vue",
+		"/Users/fourn/vue/linian-admin/src/views/discount/compoments/CouponUsedRecord.vue",
+		"/Users/fourn/vue/linian-admin/src/api/discount/discount.js",
+		"/Users/fourn/vue/linian-admin/src/views/discount/coupon/create.vue",
+		"/Users/fourn/vue/linian-admin/src/views/discount/directional/create.vue",
+		"/Users/fourn/vue/linian-admin/src/views/discount/create.vue",
+		"/Users/fourn/vue/linian-admin/src/views/discount/directional/index.vue",
+		"/Users/fourn/vue/linian-admin/src/api/stock/depot.js",
+		"/Users/fourn/vue/linian-admin/src/views/diy_pages/components/PageSelector.vue",
+		"/Users/fourn/vue/linian-admin/src/views/diy_pages/components/PageGoodsCategory.vue",
+		"/Users/fourn/vue/linian-admin/src/router/modules/stock.js",
+		"/Users/fourn/vue/linian-admin/src/views/system/settings.vue",
+		"/Users/fourn/vue/linian-admin/src/views/stock/depot.vue",
+		"/Users/fourn/vue/linian-admin/src/api/stock/supplier.js",
+		"/Users/fourn/vue/linian-admin/src/api/product/goods.js",
+		"/Users/fourn/vue/linian-admin/src/views/products/goods/edit.vue",
+		"/Users/fourn/vue/linian-admin/src/api/stock/goods_category.js",
+		"/Users/fourn/vue/linian-admin/src/api/stock/purchase.js",
+		"/Users/fourn/vue/linian-admin/src/api/stock/purchase_order.js",
+		"/Users/fourn/vue/linian-admin/src/api/stock/stock.js",
+		"/Users/fourn/Library/Application Support/Sublime Text 3/Packages/User/uni.error.sublime-snippet",
+		"/Users/fourn/Library/Application Support/Sublime Text 3/Packages/User/uin.error",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/goods/list.vue",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/cart/cart.vue",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/common/js/utils.js",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/coupon/coupon.vue",
+		"/Users/fourn/Library/Application Support/Sublime Text 3/Installed Packages/VueFormatter.sublime-package/VUEFormatter.sublime-settings",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/common/js/api.js",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/goods/show.vue",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/user/user.vue",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/main.js",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages/index/index.vue",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/pages.json",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/store/index.js",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/App.vue",
+		"/Users/fourn/WeChatProjects/linian-weapp/src/components/index/coupon.vue",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Actions/UnitFixedDiscountAction.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/CouponEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/RulesEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/DiscountEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/ContainsCategoryRuleChecker.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscountAction.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscount.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Distributors/PercentageIntegerDistributor.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/ContainsWechatGroupChecker.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/ContainsProductRuleChecker.php",
+		"/Users/fourn/sites/ec/modules/component/Order/src/Models/Adjustment.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Actions/DiscountUnitActionContract.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Contracts/RuleCheckerContract.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/DiscountEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Contracts/DiscountItemContract.php",
+		"/Users/fourn/sites/ec/modules/component/Order/src/Models/Order.php",
+		"/Users/fourn/sites/ec/modules/component/Order/src/Models/Comment.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Services/DiscountService.php",
+		"/Users/fourn/Downloads/3987921_linian.ynwudian.com_nginx/3987921_linian.ynwudian.com.key",
+		"/Users/fourn/Downloads/3987921_linian.ynwudian.com_nginx/3987921_linian.ynwudian.com.pem",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Repositories/Eloquent/DiscountRepositoryEloquent.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Controllers/V3/ShoppingCartController.php",
+		"/Users/fourn/sites/ec/vendor/ibrand/laravel-shopping-cart/src/Cart.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Controllers/V3/DiscountController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Controllers/V2/DiscountController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Repository/UserRepository.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Controllers/V2/ShoppingController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Controllers/V3/ShoppingController.php",
+		"/Users/fourn/sites/ec/database/migrations/2016_01_04_173148_create_admin_tables.php",
+		"/Users/fourn/sites/ec/modules/component/Advert/README.md",
+		"/Users/fourn/sites/ec/modules/component/Favorite/tests/BaseTest.php",
+		"/Users/fourn/sites/ec/modules/component/Favorite/tests/Activity.php",
+		"/Users/fourn/sites/ec/modules/component/Advert/.travis.yml",
+		"/Users/fourn/sites/ec/modules/component/Advert/phpunit.xml",
+		"/Users/fourn/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/fourn/sites/ec/docker/docker-compose.yml",
+		"/Users/fourn/sites/ec/modules/component/Gift/src/Processor/DirectionalCouponProcessor.php",
+		"/Users/fourn/sites/ec/modules/component/Gift/src/Listeners/DirectionalCoupon/GiftEventListener.php",
+		"/Users/fourn/sites/ec/modules/component/Gift/src/Listeners/DirectionalCoupon/CouponEventListener.php",
+		"/Users/fourn/sites/ec/modules/component/Gift/src/GiftServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/component/Gift/src/Services/DirectionalCouponService.php",
+		"/Users/fourn/sites/ec/composer.json",
+		"/Users/fourn/sites/ec/Dockerfile",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Providers/DiscountServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Providers/BackendServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/component/Gift/src/Repositories/GiftDirectionalCouponRepository.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Repositories/Eloquent/CouponRepositoryEloquent.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Repositories/CouponRepository.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/DirectionalCouponController.php",
+		"/Users/fourn/sites/ec/modules/component/Gift/src/Jobs/AutoDirectionalCoupon.php",
+		"/Users/fourn/sites/ec/modules/component/Gift/src/Listeners/NewUser/CouponEventListener.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/composer.json",
+		"/Users/fourn/sites/ec/vendor/ibrand/backend/src/Console/InstallExtensionsCommand.php",
+		"/Users/fourn/sites/ec/vendor/laravel-admin-ext/helpers/src/Helpers.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/Promotion/CouponController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/resources/views/promotion/coupon/index.blade.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Repositories/DiscountRepository.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/DiscountService.php",
+		"/Users/fourn/sites/ec/tests/Feature/ExampleTest.php",
+		"/Users/fourn/sites/ec/tests/Unit/ExampleTest.php",
+		"/Users/fourn/sites/ec/.gitignore",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Observers/ProductObserver.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Processor/MultiGrouponRefundProcessor.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Listeners/GoodsPurchaseEventListener.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Listeners/PromotionEventListener.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/Promotion/DiscountController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscountRule.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/helpers.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/helpers.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/composer.json",
+		"/Users/fourn/sites/ec/modules/component/Supplier/src/SupplierServiceProvider.php",
+		"/Users/fourn/sites/ec/modules/component/Supplier/src/Supplier.php",
+		"/Users/fourn/sites/ec/modules/component/Supplier/composer.json",
+		"/Users/fourn/sites/ec/.env",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Schedules/SeckillSchedule.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Applicators/PointApplicator.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Processors/OrderProcessor.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/routes.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/PointMall/GoodsController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Facades/DiscountService.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Exceptions/Traits/InfoTrait.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Exceptions/Displayers/ArrayDisplayer.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Facades/GoodsService.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Actions/OrderFixedDiscountAction.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Actions/OrderPercentageDiscountAction.php"
+	],
+	"find":
+	{
+		"height": 71.0
+	},
+	"find_in_files":
+	{
+		"height": 161.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"handleExchangeList",
+			"exchange",
+			"exchangeData",
+			": ",
+			"exchangeData",
+			"couponLoading",
+			"couponFocus",
+			"handleActionClick",
+			"total",
+			"changePage",
+			"loading",
+			"dialog",
+			"table",
+			"listQuery",
+			"discountVisible",
+			"discountOpen",
+			"editStockForm",
+			"editStockFormCloseEvent",
+			"params",
+			"put",
+			"remark",
+			"PUT"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/fourn/vue/linian-admin/src/views/marketing/points-malls/index.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2512,
+								2512
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1340.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/fourn/vue/linian-admin/src/views/marketing/components/PointsMallOrders.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								338,
+								338
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 176.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/fourn/vue/linian-admin/src/api/discount/coupon.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 987,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								505,
+								505
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/fourn/vue/linian-admin/src/router/modules/marketing.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3104,
+								3114
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 73.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "linian-admin.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"couponconnt",
+				"modules/component/Gift/src/Listeners/DirectionalCoupon/CouponEventListener.php"
+			],
+			[
+				"d",
+				"Dockerfile"
+			],
+			[
+				"Discount\\Repositories\\CouponRepository",
+				"modules/component/Discount/src/Repositories/CouponRepository.php"
+			],
+			[
+				"Gift\\Processor\\DirectionalCouponProcessor",
+				"modules/component/Gift/src/Processor/DirectionalCouponProcessor.php"
+			],
+			[
+				"Gift\\Services\\DirectionalCouponService",
+				"modules/component/Gift/src/Services/DirectionalCouponService.php"
+			],
+			[
+				"Gift\\Repositories\\GiftDirectionalCouponRepository",
+				"modules/component/Gift/src/Repositories/GiftDirectionalCouponRepository.php"
+			],
+			[
+				"Gift\\Listeners\\DirectionalCoupon\\CouponEventListener",
+				"modules/component/Gift/src/Listeners/DirectionalCoupon/CouponEventListener.php"
+			],
+			[
+				"Component\\Gift\\Repositories\\GiftDirectionalCouponRepository",
+				"modules/component/Gift/src/Repositories/GiftDirectionalCouponRepository.php"
+			],
+			[
+				"giftDirectionalCouponRepository",
+				"modules/component/Gift/src/Repositories/GiftDirectionalCouponRepository.php"
+			],
+			[
+				"Backend\\Store\\Repositories\\DiscountRepository",
+				"modules/EC.Open.Backend/Store/src/Repositories/DiscountRepository.php"
+			],
+			[
+				"Store\\Service\\DiscountService",
+				"modules/EC.Open.Backend/Store/src/Service/DiscountService.php"
+			],
+			[
+				"Component\\Supplier\\SupplierSe",
+				"modules/component/Supplier/src/SupplierServiceProvider.php"
+			],
+			[
+				"Component\\Supplier\\SupplierServiceProvider",
+				"modules/component/Supplier/src/SupplierServiceProvider.php"
+			],
+			[
+				"InvoiceServiceProvider",
+				"modules/component/Invoice/src/InvoiceServiceProvider.php"
+			],
+			[
+				"ComposerScripts",
+				"vendor/laravel/framework/src/Illuminate/Foundation/ComposerScripts.php"
+			],
+			[
+				"composer",
+				"modules/EC.Open.Core/composer.json"
+			],
+			[
+				"",
+				".env"
+			],
+			[
+				".env",
+				".env"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"laravelmo",
+				"~/SublimeProjects/laravel-modules.sublime-project"
+			],
+			[
+				"laravel",
+				"~/SublimeProjects/laravel-modules.sublime-project"
+			],
+			[
+				"meedu",
+				"~/SublimeProjects/meedu.sublime-project"
+			],
+			[
+				"flori",
+				"~/SublimeProjects/floribook.sublime-project"
+			],
+			[
+				"florj",
+				"~/SublimeProjects/floribook.sublime-project"
+			],
+			[
+				"fl",
+				"~/SublimeProjects/florihelper.sublime-project"
+			],
+			[
+				"florihe",
+				"~/SublimeProjects/florihelper.sublime-project"
+			],
+			[
+				"",
+				"~/SublimeProjects/asgrad.sublime-project"
+			],
+			[
+				"meed",
+				"~/SublimeProjects/meedu.sublime-project"
+			],
+			[
+				"as",
+				"~/SublimeProjects/asgrad.sublime-project"
+			],
+			[
+				"flor",
+				"~/SublimeProjects/florihelper.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

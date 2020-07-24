@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"uni",
+				"uni.text\tuni.error"
+			],
+			[
 				"Rou",
 				"Route::get\tBasic Get Route."
 			]
@@ -11,6 +15,41 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/fourn/WeChatProjects/qqc-weapp/src/common/api.js",
+			"settings":
+			{
+				"buffer_size": 4994,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/WeChatProjects/qqc-weapp/src/env.js",
+			"settings":
+			{
+				"buffer_size": 307,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/fourn/WeChatProjects/qqc-weapp/src/store/index.js",
+			"settings":
+			{
+				"buffer_size": 340,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/WeChatProjects/qqc-weapp/src/pages/index/index.vue",
+			"settings":
+			{
+				"buffer_size": 12888,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -23,6 +62,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
 			[
 				"listpack",
 				"Package Control: List Packages"
@@ -192,48 +235,25 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/fourn/sites/linian",
-		"/Users/fourn/sites/linian/app",
-		"/Users/fourn/sites/linian/app/Providers",
-		"/Users/fourn/sites/linian/Modules",
-		"/Users/fourn/sites/linian/Modules/Components",
-		"/Users/fourn/sites/linian/Modules/Components/Http",
-		"/Users/fourn/sites/linian/Modules/Components/Http/Controllers",
-		"/Users/fourn/sites/linian/Modules/Components/Http/Controllers/Admin",
-		"/Users/fourn/sites/linian/Modules/Components/Http/Resources",
-		"/Users/fourn/sites/linian/Modules/Core",
-		"/Users/fourn/sites/linian/Modules/Core/Providers",
-		"/Users/fourn/sites/linian/Modules/Product",
-		"/Users/fourn/sites/linian/Modules/Product/Services",
-		"/Users/fourn/sites/linian/Modules/Product/Services/Checkers",
-		"/Users/fourn/sites/linian/Modules/System",
-		"/Users/fourn/sites/linian/Modules/System/Database",
-		"/Users/fourn/sites/linian/Modules/System/Database/Seeders",
-		"/Users/fourn/sites/linian/Modules/User",
-		"/Users/fourn/sites/linian/Modules/User/Http",
-		"/Users/fourn/sites/linian/Modules/User/Http/Controllers",
-		"/Users/fourn/sites/linian/Modules/User/Http/Controllers/Api",
-		"/Users/fourn/sites/linian/resources",
-		"/Users/fourn/sites/linian/resources/views",
-		"/Users/fourn/sites/linian/resources/views/announcement",
-		"/Users/fourn/sites/linian/resources/views/content"
+		"/Users/fourn/WeChatProjects/qqc-weapp",
+		"/Users/fourn/WeChatProjects/qqc-weapp/src",
+		"/Users/fourn/WeChatProjects/qqc-weapp/src/pages",
+		"/Users/fourn/WeChatProjects/qqc-weapp/src/pages/index",
+		"/Users/fourn/WeChatProjects/qqc-weapp/src/store"
 	],
 	"file_history":
 	[
-		"/Users/fourn/sites/linian/app/Providers/AppServiceProvider.php",
-		"/Users/fourn/sites/linian/Modules/Core/Providers/CoreServiceProvider.php",
-		"/Users/fourn/sites/linian/resources/views/welcome.blade.php",
-		"/Users/fourn/sites/linian/resources/views/announcement/content.blade.php",
-		"/Users/fourn/sites/linian/Modules/Product/Services/GoodsService.php",
-		"/Users/fourn/sites/linian/Modules/Product/Services/Checkers/GoodsChecker.php",
-		"/Users/fourn/sites/linian/Modules/User/Http/Controllers/Api/AuthorizationsController.php",
-		"/Users/fourn/sites/linian/Modules/User/Http/Controllers/Api/UsersController.php",
-		"/Users/fourn/sites/linian/resources/views/content/article.blade.php",
-		"/Users/fourn/sites/linian/Modules/System/Database/Seeders/SeedAdminsTableSeeder.php",
-		"/Users/fourn/sites/linian/Modules/System/Database/Seeders/SeedMenuTableSeeder.php",
-		"/Users/fourn/sites/linian/Modules/Components/Http/Controllers/Admin/TagController.php",
-		"/Users/fourn/sites/linian/resources/views/mini_admin/share.blade.php",
-		"/Users/fourn/sites/linian/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php",
+		"/Users/fourn/WeChatProjects/qqc-weapp/src/pages/login/login.vue",
+		"/Users/fourn/WeChatProjects/qqc-weapp/src/common/api.js",
+		"/Users/fourn/WeChatProjects/qqc-weapp/src/env.js",
+		"/Users/fourn/WeChatProjects/qqc-weapp/src/main.js",
+		"/Users/fourn/WeChatProjects/qqc-weapp/src/uni.scss",
+		"/Users/fourn/WeChatProjects/qqc-weapp/src/pages.json",
+		"/Users/fourn/WeChatProjects/qqc-weapp/src/manifest.json",
+		"/Users/fourn/WeChatProjects/qqc-weapp/package.json",
+		"/Users/fourn/WeChatProjects/qqc-weapp/src/pages/index/index.vue",
+		"/Users/fourn/WeChatProjects/qqc-weapp/src/pages/user/user.vue",
+		"/Users/fourn/WeChatProjects/qqc-weapp/src/pages/login/phone.vue",
 		"/Users/fourn/sites/linian/Modules/Product/Services/GoodsProductService.php",
 		"/Users/fourn/sites/linian/Modules/Product/Services/ApiGoodsService.php",
 		"/Users/fourn/sites/ec/database/migrations/2016_01_04_173148_create_admin_tables.php",
@@ -347,11 +367,14 @@
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/MultiGrouponService.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Console/ImportPointMallMenus.php",
 		"/Users/fourn/sites/ec/vendor/prettus/l5-repository/src/Prettus/Repository/Traits/TransformableTrait.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Controllers/V3/LiveController.php"
+		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Controllers/V3/LiveController.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Repositories/GoodsCategoryRepository.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/GoodsCategory.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/Relations/BelongToUserTrait.php"
 	],
 	"find":
 	{
-		"height": 33.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -365,7 +388,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"respondWithToken"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -383,18 +405,151 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/fourn/WeChatProjects/qqc-weapp/src/common/api.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/fourn/WeChatProjects/qqc-weapp/src/env.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/fourn/WeChatProjects/qqc-weapp/src/store/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/fourn/WeChatProjects/qqc-weapp/src/pages/index/index.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12888,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6833,
+								6833
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3347.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 33.0
+		"height": 40.0
 	},
 	"input":
 	{
-		"height": 71.0
+		"height": 78.0
 	},
 	"layout":
 	{
@@ -423,19 +578,15 @@
 	{
 		"height": 108.0
 	},
-	"output.exec":
-	{
-		"height": 152.0
-	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "linian.sublime-project",
+	"project": "qqc-weapp.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 76.0
 	},
 	"save_all_on_build": true,
 	"select_file":

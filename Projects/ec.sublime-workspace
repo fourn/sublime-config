@@ -12,10 +12,155 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/fourn/sites/ec/modules/component/Order/src/Models/Adjustment.php",
+			"file": "/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/DiscountEligibilityChecker.php",
 			"settings":
 			{
-				"buffer_size": 1354,
+				"buffer_size": 1445,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/ContainsProductRuleChecker.php",
+			"settings":
+			{
+				"buffer_size": 2980,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/ContainsCategoryRuleChecker.php",
+			"settings":
+			{
+				"buffer_size": 1620,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Actions/DiscountUnitActionContract.php",
+			"settings":
+			{
+				"buffer_size": 2367,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Actions/DiscountAction.php",
+			"settings":
+			{
+				"buffer_size": 1013,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Applicators/DiscountApplicator.php",
+			"settings":
+			{
+				"buffer_size": 1915,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Providers/DiscountServiceProvider.php",
+			"settings":
+			{
+				"buffer_size": 3095,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Actions/OrderFixedDiscountAction.php",
+			"settings":
+			{
+				"buffer_size": 3027,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Actions/OrderPercentageDiscountAction.php",
+			"settings":
+			{
+				"buffer_size": 3153,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Actions/UnitFixedDiscountAction.php",
+			"settings":
+			{
+				"buffer_size": 5481,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Distributors/PercentageIntegerDistributor.php",
+			"settings":
+			{
+				"buffer_size": 864,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Contracts/DiscountActionContract.php",
+			"settings":
+			{
+				"buffer_size": 974,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 1662 files for \"goods_fixed_discount\"\n\n/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/resources/views/promotion/coupon/edit.blade.php:\n   75          }\n   76  \n   77:         if (value == 'goods_fixed_discount') {\n   78              var action_html = $('#goods_discount_action_template').html();\n   79          }\n\n/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/resources/views/promotion/coupon/includes/create_action.blade.php:\n   11              </option>\n   12  \n   13:             <option value=\"goods_fixed_discount\">\n   14                  商品减金额\n   15              </option>\n\n/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/resources/views/promotion/coupon/includes/edit_action.blade.php:\n   15              </option>\n   16  \n   17:             <option {{$type == 'goods_fixed_discount'?'selected' : ''}} value=\"goods_fixed_discount\">\n   18                  商品减金额\n   19              </option>\n\n/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/resources/views/promotion/discount/edit.blade.php:\n   64              }\n   65  \n   66:             if(value == 'goods_fixed_discount') {\n   67                  var action_html = $('#goods_discount_action_template').html();\n   68              }\n\n/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/resources/views/promotion/discount/includes/create_action.blade.php:\n   11              </option>\n   12  \n   13:             <option value=\"goods_fixed_discount\">\n   14                  商品减金额\n   15              </option>\n\n/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/resources/views/promotion/discount/includes/edit_action.blade.php:\n   15              </option>\n   16  \n   17:             <option {{$type == 'goods_fixed_discount'?'selected' : ''}} value=\"goods_fixed_discount\">\n   18                  商品减金额\n   19              </option>\n\n/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/resources/views/promotion/includes/configuration.blade.php:\n   25                  <option selected=\"selected\" value=\"order_fixed_discount\">订单减金额</option>\n   26                  <option value=\"order_percentage_discount\">订单打折</option>\n   27:                 <option value=\"goods_fixed_discount\">商品减金额</option>\n   28                  <option value=\"goods_percentage_discount\">商品打折</option>\n   29                  <option value=\"goods_percentage_by_market_price_discount\">员工内购折扣</option>\n\n/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/resources/views/promotion/includes/edit_configuration.blade.php:\n  189                  </option>\n  190  \n  191:                 <option {{$discount->discountAction->type == 'goods_fixed_discount'?'selected' : ''}} value=\"goods_fixed_discount\">\n  192                      商品减金额\n  193                  </option>\n\n/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/resources/views/promotion/includes/script.blade.php:\n  170          }\n  171  \n  172:         if(value == 'goods_fixed_discount') {\n  173              var action_html = $('#goods_discount_action_template').html();\n  174          }\n\n/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/resources/views/promotion/public/script.blade.php:\n  174          }\n  175  \n  176:         if (value == 'goods_fixed_discount') {\n  177              var action_html = $('#goods_discount_action_template').html();\n  178          }\n\n/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscount.php:\n  143          /*if ($this->coupon_based == 0) return $type;*/\n  144  \n  145:         if ($action->type == 'order_fixed_discount' OR $action->type == 'goods_fixed_discount') {\n  146              $type['type'] = 'cash';\n  147              $type['value'] = json_decode($action->configuration, true)['amount'] / 100;\n\n/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscountAction.php:\n   20          $type = $this->attributes['type'];\n   21  \n   22:         if($type == 'order_fixed_discount' OR $type =='goods_fixed_discount')\n   23          {\n   24              $this->attributes['configuration'] = json_encode(['amount' => $value * 100]);\n   ..\n   56                  $type='订单打折';\n   57                  break;\n   58:             case 'goods_fixed_discount':\n   59                  $type='商品减金额';\n   60                  break;\n\n/Users/fourn/sites/ec/modules/EC.Open.Core/database/ec_demo_v3_2020_04_11.sql:\n 1840  \t(40,40,'order_fixed_discount','{\\\"amount\\\":1500}'),\n 1841  \t(41,41,'order_fixed_discount','{\\\"amount\\\":1500}'),\n 1842: \t(42,42,'goods_fixed_discount','{\\\"amount\\\":1989.9999999999998}'),\n 1843  \t(43,43,'order_fixed_discount','{\\\"amount\\\":1000}'),\n 1844  \t(44,44,'order_fixed_discount','{\\\"amount\\\":2500}'),\n\n/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Actions/UnitFixedDiscountAction.php:\n   18  class UnitFixedDiscountAction extends DiscountUnitActionContract\n   19  {\n   20:     const TYPE = 'goods_fixed_discount';\n   21  \n   22      public function execute(DiscountSubjectContract $subject, array $configuration, DiscountContract $discount)\n\n18 matches across 14 files\n",
+			"settings":
+			{
+				"buffer_size": 4980,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/ItemTotalRuleChecker.php",
+			"settings":
+			{
+				"buffer_size": 774,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/CartQuantityRuleChecker.php",
+			"settings":
+			{
+				"buffer_size": 1018,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/UsageLimitEligibilityChecker.php",
+			"settings":
+			{
+				"buffer_size": 791,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/DatesEligibilityChecker.php",
+			"settings":
+			{
+				"buffer_size": 869,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -222,36 +367,40 @@
 		"/Users/fourn/sites/ec/modules/component",
 		"/Users/fourn/sites/ec/modules/component/Discount",
 		"/Users/fourn/sites/ec/modules/component/Discount/src",
-		"/Users/fourn/sites/ec/modules/component/Discount/src/Repositories",
-		"/Users/fourn/sites/ec/modules/component/Discount/src/Repositories/Eloquent",
-		"/Users/fourn/sites/ec/modules/component/Order",
-		"/Users/fourn/sites/ec/modules/component/Order/src",
-		"/Users/fourn/sites/ec/modules/component/Order/src/Models",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Actions",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Applicators",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Contracts",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Distributors",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Providers",
 		"/Users/fourn/sites/ec/modules/EC.Open.Core",
 		"/Users/fourn/sites/ec/modules/EC.Open.Core/src",
 		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount",
 		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Actions",
 		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers",
 		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Contracts",
-		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Services",
-		"/Users/fourn/sites/ec/modules/EC.Open.Server",
-		"/Users/fourn/sites/ec/modules/EC.Open.Server/src",
-		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Controllers",
-		"/Users/fourn/sites/ec/modules/EC.Open.Server/src/Controllers/V3"
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Services"
 	],
 	"file_history":
 	[
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Actions/UnitFixedDiscountAction.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/CouponEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/RulesEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/DiscountEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/ContainsCategoryRuleChecker.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscountAction.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscount.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Distributors/PercentageIntegerDistributor.php",
+		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/ContainsWechatGroupChecker.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/ContainsProductRuleChecker.php",
 		"/Users/fourn/sites/ec/modules/component/Order/src/Models/Adjustment.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Actions/DiscountUnitActionContract.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Contracts/RuleCheckerContract.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/DiscountEligibilityChecker.php",
+		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Contracts/DiscountItemContract.php",
 		"/Users/fourn/sites/ec/modules/component/Order/src/Models/Order.php",
 		"/Users/fourn/sites/ec/modules/component/Order/src/Models/Comment.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Contracts/RuleCheckerContract.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Contracts/DiscountItemContract.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/DiscountEligibilityChecker.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/ContainsCategoryRuleChecker.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Actions/UnitFixedDiscountAction.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Services/DiscountService.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/ContainsProductRuleChecker.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Actions/DiscountUnitActionContract.php",
 		"/Users/fourn/Downloads/3987921_linian.ynwudian.com_nginx/3987921_linian.ynwudian.com.key",
 		"/Users/fourn/Downloads/3987921_linian.ynwudian.com_nginx/3987921_linian.ynwudian.com.pem",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Repositories/Eloquent/DiscountRepositoryEloquent.php",
@@ -289,7 +438,6 @@
 		"/Users/fourn/sites/ec/vendor/ibrand/backend/src/Console/InstallExtensionsCommand.php",
 		"/Users/fourn/sites/ec/vendor/laravel-admin-ext/helpers/src/Helpers.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/Promotion/CouponController.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscount.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/resources/views/promotion/coupon/index.blade.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Repositories/DiscountRepository.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/DiscountService.php",
@@ -302,7 +450,6 @@
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Listeners/PromotionEventListener.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Http/Controllers/Promotion/DiscountController.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscountRule.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Model/ElDiscountAction.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/helpers.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Core/src/helpers.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/composer.json",
@@ -323,13 +470,9 @@
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Actions/OrderPercentageDiscountAction.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Applicators/DiscountApplicator.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/CartQuantityRuleChecker.php",
-		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/CouponEligibilityChecker.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/DatesEligibilityChecker.php",
-		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/DiscountEligibilityChecker.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/ItemTotalRuleChecker.php",
-		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/RulesEligibilityChecker.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/UsageLimitEligibilityChecker.php",
-		"/Users/fourn/sites/ec/modules/component/Discount/src/Distributors/PercentageIntegerDistributor.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Models/Coupon.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Models/Discount.php",
 		"/Users/fourn/sites/ec/modules/component/Discount/src/Models/Rule.php",
@@ -367,16 +510,15 @@
 		"/Users/fourn/sites/ec/modules/component/Reduce/migrations/create_reduce_tables.php.stub",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/SpecialGoodsService.php",
 		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Service/MultiGrouponService.php",
-		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Console/ImportPointMallMenus.php",
-		"/Users/fourn/sites/ec/vendor/prettus/l5-repository/src/Prettus/Repository/Traits/TransformableTrait.php"
+		"/Users/fourn/sites/ec/modules/EC.Open.Backend/Store/src/Console/ImportPointMallMenus.php"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 33.0
 	},
 	"find_in_files":
 	{
-		"height": 129.0,
+		"height": 161.0,
 		"where_history":
 		[
 			"/Users/fourn/sites/ec/modules",
@@ -400,6 +542,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"checkItemRule",
+			"adjustmentTotal",
+			"isEligibleByItem",
+			"goods_fixed_discount",
+			"getCartQuantity",
+			"isEligibleByItem",
 			"AdjustmentContract",
 			"contains_product",
 			"DiscountApplicator",
@@ -452,16 +600,134 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 6,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/fourn/sites/ec/modules/component/Order/src/Models/Adjustment.php",
+					"file": "/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/DiscountEligibilityChecker.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1354,
+						"buffer_size": 1445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								991,
+								991
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/ContainsProductRuleChecker.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2356,
+								2356
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Checkers/ContainsCategoryRuleChecker.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1352,
+								1352
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Actions/DiscountUnitActionContract.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1193,
+								1193
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Actions/DiscountAction.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1013,
 						"regions":
 						{
 						},
@@ -482,7 +748,449 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Applicators/DiscountApplicator.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1673,
+								1673
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 902.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Providers/DiscountServiceProvider.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3095,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1598,
+								1598
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1591.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Actions/OrderFixedDiscountAction.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1711,
+								1711
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Actions/OrderPercentageDiscountAction.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2335,
+								2369
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/fourn/sites/ec/modules/EC.Open.Core/src/Discount/Actions/UnitFixedDiscountAction.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								500,
+								500
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Distributors/PercentageIntegerDistributor.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Contracts/DiscountActionContract.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								928,
+								941
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4980,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										204,
+										224
+									],
+									[
+										519,
+										539
+									],
+									[
+										794,
+										814
+									],
+									[
+										841,
+										861
+									],
+									[
+										1087,
+										1107
+									],
+									[
+										1412,
+										1432
+									],
+									[
+										1689,
+										1709
+									],
+									[
+										1736,
+										1756
+									],
+									[
+										2142,
+										2162
+									],
+									[
+										2583,
+										2603
+									],
+									[
+										2630,
+										2650
+									],
+									[
+										2878,
+										2898
+									],
+									[
+										3160,
+										3180
+									],
+									[
+										3514,
+										3534
+									],
+									[
+										3882,
+										3902
+									],
+									[
+										4117,
+										4137
+									],
+									[
+										4424,
+										4444
+									],
+									[
+										4802,
+										4822
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								4819,
+								4819
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2280.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/ItemTotalRuleChecker.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								719,
+								734
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/CartQuantityRuleChecker.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1018,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								518,
+								518
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/UsageLimitEligibilityChecker.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								480,
+								480
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/Users/fourn/sites/ec/modules/component/Discount/src/Checkers/DatesEligibilityChecker.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								469,
+								469
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
 					"type": "text"
 				}
 			]
@@ -490,7 +1198,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 35.0
+		"height": 33.0
 	},
 	"input":
 	{
@@ -535,7 +1243,7 @@
 	"project": "ec.sublime-project",
 	"replace":
 	{
-		"height": 66.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":

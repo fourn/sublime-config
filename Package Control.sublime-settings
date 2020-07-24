@@ -12,6 +12,7 @@
 		"EditorConfig",
 		"Emmet",
 		"Git",
+		"HTML-CSS-JS Prettify",
 		"Laravel 5 Artisan",
 		"Laravel 5 Snippets",
 		"Laravel Blade AutoComplete",
@@ -19,10 +20,13 @@
 		"Material Theme",
 		"Package Control",
 		"ProjectManager",
+		"Sass",
 		"SideBarTools",
 		"SublimeLinter",
+		"SublimeLinter-eslint",
 		"SublimeLinter-php",
 		"SyncedSideBar",
-		"Vue Syntax Highlight"
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
 	]
 }
